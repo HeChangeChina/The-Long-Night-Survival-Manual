@@ -1,0 +1,10 @@
+0 = Well done, using skills flexibly in combat can greatly reduce difficulty.
+1 = Use the <color=#32afeb>numeric keys 1 2 3</color> to remove/stow weapons.
+2 = In the<color=#eb8c32>holding weapon</color>state, press<sprite=2>to aim, and in the<color=#eb8c32>aiming state</color>, press<sprite=0>to fire
+3 = Press the <color=#32afeb>R</color> key to change the ammunition for the currently held weapon, which will consume the energy recovered by the weapon over time.
+4 = Your health and shield values are displayed in the lower left corner of the screen, and the shield begins to recover after a few seconds of inactivity.
+5 = Recovery of the shield will generate heat, which is displayed in the lower left corner of the screen. After the cumulative heat reaches 100%, the shield will stop recovering for a period of time.
+6 = When the enemy's attack is about to come, you can use the <color=#32afeb>Space</color> key to scroll to avoid it.
+7 = Now, try to defeat these enemies.
+8 = Note: If you feel that the game is too difficult, you can press <color=#32afeb>Esc</color> to open the menu and turn on auxiliary mode.
+

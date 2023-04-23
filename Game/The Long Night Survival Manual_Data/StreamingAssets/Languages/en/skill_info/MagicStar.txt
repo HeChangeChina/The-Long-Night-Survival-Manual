@@ -1,0 +1,11 @@
+name = Magic Star
+
+slider_title_1 = Mana Cost
+slider_description_1 = 5
+slider_level_1 = 20
+
+slider_title_2 = Mana Drain Continuously
+slider_description_2 = 6/s
+slider_level_2 = 40
+
+description = Attract the surrounding magic to condense into a magic nova surrounding you. When you cause physical damage, emit a magic fluorescence to the target, causing 8 spell damage and adding a layer of magic erosion. This effect has a 0.5 second cooldown<br><color=#FF9090>Magic Erosion State</color>:Reduce target armor by 1 point per layer, stack up to 3 layers, and when reaching 3 layers, additionally reduce armor by 1 point, lasting for 3.5s<br><br><color=#DCFF84>This skill can be actively turned on/off</color>

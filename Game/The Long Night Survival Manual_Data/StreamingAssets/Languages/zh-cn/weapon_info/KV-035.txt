@@ -1,0 +1,15 @@
+magazine_level = 50
+energy_cost_level = 85
+energy_recovery_level = 20
+fire_interval_level = 30
+damage_level = 75
+accuracy_level = 20
+name = KV-035
+type = 霰弹枪
+magazine = 6发
+energy_cost = 33%
+energy_recovery = 65s
+fire_interval = 1.2s
+damage = 15/发×5
+accuracy = 20°~30°
+description = 道尔顿公司™于新历988年推出的KV系列新产品，产品保持了KV系类一如既往的优秀素质，在近距离交战中能够对敌人造成毁灭性的伤害。但不够人性化的减震设计、不够优秀的握持体验与不稳定的核心输出让这款产品在市场上呈现出两极分化的评价。

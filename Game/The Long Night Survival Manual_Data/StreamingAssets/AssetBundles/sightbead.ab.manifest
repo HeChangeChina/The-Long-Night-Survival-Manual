@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1741548423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fc1269cef41c5ea2dc4d9f292e3e891
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9352a081e1597b8957625e86d0e31c53
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: af02fe6543561ba4bb2e0c6c7e8e576c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SightBeadComponent
+Assets:
+- Assets/ABResources/sightBead/Reload/ReloadNormal.asset
+- Assets/ABResources/sightBead/Normal/mouse_outline.png
+- Assets/ABResources/sightBead/Reload/reload.png
+- Assets/ABResources/sightBead/Normal/mouse_background.png
+- Assets/ABResources/sightBead/Cross/InclinedCross.asset
+- Assets/ABResources/sightBead/Cross/Cross.asset
+- Assets/ABResources/sightBead/Cross/cross.png
+- Assets/ABResources/sightBead/Skill/SkillSightBead.png
+- Assets/ABResources/sightBead/Normal/Normal.asset
+- Assets/ABResources/sightBead/Circle/CircleSight.asset
+- Assets/ABResources/sightBead/Normal/mouse_blur.png
+- Assets/ABResources/sightBead/Skill/SkillSightBead.asset
+- Assets/ABResources/sightBead/Circle/CircleSight.png
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/materials.ab

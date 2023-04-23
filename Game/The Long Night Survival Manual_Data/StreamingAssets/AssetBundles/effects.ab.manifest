@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 3679389762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39b5a3c5acf7120ec8f6d3b105e48b73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2e1e15f2aa6f99dd23826401f0b4e25f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32bba2a59b4941949b10489a6f6a31c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37f8021a64a6e11439e490ea154374fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee652fde3fd2d9f43bdc44895bf97e45, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 969d0ca6886a11340a3ea755f2d904b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f848e7edce803a4dafe3acb8b46e893, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6293ebae329c48d40835bd3e639cddfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c0e7c21d61e93a49b84ddf4bc42ce21, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9bbb41e12ec7d4446bfc946b9e9bc29a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69ca37fc220ebf04ead5da0efb5e94e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22fe25b1ecf27d24c800fb8815b0f38e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: EditorEffectInMultiply
+- AssemblyName: Assembly-CSharp
+  ClassName: Fill/Result
+- AssemblyName: Assembly-CSharp
+  ClassName: FillCode.FillVariable
+- AssemblyName: Assembly-CSharp
+  ClassName: TargetSearchRangeEditor
+Assets:
+- Assets/ABResources/effects/CircleFireHitSP.asset
+- Assets/ABResources/effects/SmallFireMixSP.asset
+- Assets/ABResources/effects/SmallFireSmokeSP.asset
+- Assets/ABResources/effects/HumanRushAdd.asset
+- Assets/ABResources/effects/SnowGirlBeHitted.asset
+- Assets/ABResources/effects/UniversalKnockDownState.asset
+- Assets/ABResources/effects/SmallFireSP.asset
+- Assets/ABResources/effects/HumanRollRevision.asset
+- Assets/ABResources/effects/New Target Search Effect.asset
+- Assets/ABResources/effects/MiddleFireSmokeDelaySP.asset
+- Assets/ABResources/effects/MiddleAssaultSP.asset
+- Assets/ABResources/effects/MiddleFireSmokeSP.asset
+- Assets/ABResources/effects/UniversalKnockDown.asset
+- Assets/ABResources/effects/SmallBloodSpray.asset
+- Assets/ABResources/effects/RollFallSP.asset
+- Assets/ABResources/effects/New Time Delay Effect.asset
+- Assets/ABResources/effects/MiddleFireMixSP.asset
+- Assets/ABResources/effects/UniversalImpactPush.asset
+- Assets/ABResources/effects/HumanRoll.asset
+- Assets/ABResources/effects/MiddleFireSP.asset
+- Assets/ABResources/effects/HumanRushRemove.asset
+- Assets/ABResources/effects/HumanWalkRemove.asset
+- Assets/ABResources/effects/UniversalKnockDownAttribute.asset
+- Assets/ABResources/effects/UniversalImpact.asset
+- Assets/ABResources/effects/SmallSmokeSP.asset
+- Assets/ABResources/effects/RollStartSP.asset
+- Assets/ABResources/effects/MiddleFireHitSP.asset
+- Assets/ABResources/effects/HumanRollState.asset
+- Assets/ABResources/effects/HumanWalkAdd.asset
+- Assets/ABResources/effects/HumanRollPush.asset
+- Assets/ABResources/effects/HumanRollUnselectable.asset
+- Assets/ABResources/effects/RollDirectionFill.asset
+- Assets/ABResources/effects/TestHurt.asset
+- Assets/ABResources/effects/UniversalImpactState.asset
+- Assets/ABResources/effects/MiddleShieldHitted.asset
+- Assets/ABResources/effects/RollBusy.asset
+- Assets/ABResources/effects/SnowGirlHitSP.asset
+- Assets/ABResources/effects/SmallFireHitSP.asset
+- Assets/ABResources/effects/UniversalKnockDownPush.asset
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/specialeffect.ab

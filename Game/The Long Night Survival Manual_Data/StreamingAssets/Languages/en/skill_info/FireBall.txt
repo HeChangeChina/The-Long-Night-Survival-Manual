@@ -1,0 +1,11 @@
+name = Fireball
+
+slider_title_1 = Mana Cost
+slider_description_1 = 15
+slider_level_1 = 40
+
+slider_title_2 = Cooldown
+slider_description_2 = 6.5s
+slider_level_2 = 34
+
+description = Activate the magic in the air with mana, causing it to heat violently to form a high-temperature fireball, and then shoot it towards the target, causing 70 ap damage to the first enemy</color>

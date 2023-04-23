@@ -1,0 +1,113 @@
+ManifestFileVersion: 0
+CRC: 2897332495
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bullet.ab
+      Dependencies:
+        Dependency_0: materials.ab
+    Info_1:
+      Name: ui.ab
+      Dependencies:
+        Dependency_0: characters.ab
+        Dependency_1: weapons.ab
+        Dependency_2: materials.ab
+    Info_2:
+      Name: sightbead.ab
+      Dependencies:
+        Dependency_0: materials.ab
+    Info_3:
+      Name: tiles.ab
+      Dependencies: {}
+    Info_4:
+      Name: characters.ab
+      Dependencies:
+        Dependency_0: bullet.ab
+        Dependency_1: specialeffect.ab
+        Dependency_2: filters.ab
+        Dependency_3: effects.ab
+        Dependency_4: materials.ab
+        Dependency_5: shields.ab
+    Info_5:
+      Name: specialeffect.ab
+      Dependencies:
+        Dependency_0: ui.ab
+        Dependency_1: characters.ab
+        Dependency_2: weapons.ab
+        Dependency_3: filters.ab
+        Dependency_4: shaders.ab
+        Dependency_5: effects.ab
+        Dependency_6: materials.ab
+    Info_6:
+      Name: weapons.ab
+      Dependencies:
+        Dependency_0: bullet.ab
+        Dependency_1: sightbead.ab
+        Dependency_2: filters.ab
+        Dependency_3: effects.ab
+        Dependency_4: skills.ab
+    Info_7:
+      Name: filters.ab
+      Dependencies: {}
+    Info_8:
+      Name: environment.ab
+      Dependencies:
+        Dependency_0: shaders.ab
+    Info_9:
+      Name: shaders.ab
+      Dependencies:
+        Dependency_0: ui.ab
+        Dependency_1: characters.ab
+        Dependency_2: specialeffect.ab
+        Dependency_3: weapons.ab
+        Dependency_4: materials.ab
+    Info_10:
+      Name: effects.ab
+      Dependencies:
+        Dependency_0: specialeffect.ab
+    Info_11:
+      Name: materials.ab
+      Dependencies:
+        Dependency_0: ui.ab
+        Dependency_1: specialeffect.ab
+        Dependency_2: weapons.ab
+        Dependency_3: shaders.ab
+    Info_12:
+      Name: actions.ab
+      Dependencies:
+        Dependency_0: characters.ab
+    Info_13:
+      Name: skills.ab
+      Dependencies:
+        Dependency_0: bullet.ab
+        Dependency_1: specialeffect.ab
+        Dependency_2: filters.ab
+        Dependency_3: effects.ab
+        Dependency_4: materials.ab
+    Info_14:
+      Name: shields.ab
+      Dependencies:
+        Dependency_0: effects.ab
+    Info_15:
+      Name: scenes.u3d
+      Dependencies:
+        Dependency_0: ui.ab
+        Dependency_1: sightbead.ab
+        Dependency_2: tiles.ab
+        Dependency_3: characters.ab
+        Dependency_4: weapons.ab
+        Dependency_5: environment.ab
+        Dependency_6: shaders.ab
+        Dependency_7: effects.ab
+        Dependency_8: materials.ab
+        Dependency_9: actions.ab
+        Dependency_10: skills.ab
+        Dependency_11: shields.ab
+        Dependency_12: audio.ab
+        Dependency_13: scenes.ab
+    Info_16:
+      Name: audio.ab
+      Dependencies: {}
+    Info_17:
+      Name: scenes.ab
+      Dependencies: {}

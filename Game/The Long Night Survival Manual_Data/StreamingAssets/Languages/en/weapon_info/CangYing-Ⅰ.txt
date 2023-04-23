@@ -1,0 +1,15 @@
+magazine_level = 45
+energy_cost_level = 75
+energy_recovery_level = 100
+fire_interval_level = 40
+damage_level = 32
+accuracy_level = 70
+name = Goshawk -Ⅰ
+type = Pistol
+magazine = 7-round
+energy_cost = 40%
+energy_recovery = 12s
+fire_interval = 0.5s
+damage = 18/round
+accuracy = 1.5°~7°
+description = Dalton™ customized police pistol for Loyalos Police Union. It has excellent qualities in all aspects except its power. However, due to insufficient budget, the power of this pistol is too low, and it is difficult to even deal with medium-level mages. Finally, production was hastily suspended only when less than 500 were produced.<br><br>A policeman who had used the pistol complained, "It shouldn't be called a hawk, it should be called a fly. It can only tickle the criminal's shield like a fly!"

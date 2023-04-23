@@ -1,0 +1,4 @@
+0 = Well done, it's worth noting that pressing and holding the <color=#32afeb>Shift</color> key can sprint. Sprinting will continue to consume physical energy, but it will make you move faster.".
+1 = Use <color=#32afeb>Lctrl</color> to open the skill wheel. When the skill wheel is open, press and hold the corresponding button for the skill to use the skill.
+2 = Now, try using the skill Fireball to destroy the vines on the gate.
+3 = After destroying the vine, use the controller to open the door.

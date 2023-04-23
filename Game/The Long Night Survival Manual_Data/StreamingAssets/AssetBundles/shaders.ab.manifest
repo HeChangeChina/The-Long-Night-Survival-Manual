@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 733762425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e96cfc75cc429124e8a3dc30b9be429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 215178141fc27cd0efdf7bcbb0e8ef81
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResources/shaders/UI/LitObject.shadergraph
+- Assets/ABResources/shaders/GameObject/Shield.shadergraph
+- Assets/ABResources/shaders/GameObject/UniversalPacticle.shadergraph
+- Assets/ABResources/shaders/GameObject/IceGround.shadergraph
+- Assets/ABResources/shaders/GameObject/UniversalWeapon.shadergraph
+- Assets/ABResources/shaders/UI/SceneBlur.shader
+- Assets/ABResources/shaders/UI/Dialog.shadergraph
+- Assets/ABResources/shaders/GameObject/UniversalWeaponEditor.shadergraph
+- Assets/ABResources/shaders/UI/DialogSwitch.shadergraph
+- Assets/ABResources/shaders/UI/BlurBackground.shadergraph
+- Assets/ABResources/shaders/UI/ImageBlur.shader
+- Assets/ABResources/shaders/UI/MagicBar.shadergraph
+- Assets/ABResources/shaders/GameObject/ShockWave.shadergraph
+- Assets/ABResources/shaders/UI/TestBlur.shadergraph
+- Assets/ABResources/shaders/UI/HealthBar.shadergraph
+- Assets/ABResources/shaders/GameObject/testshader.shadergraph
+- Assets/ABResources/shaders/UI/LitObjectMask.shader
+- Assets/ABResources/shaders/UI/GaussianBlur.shader
+- Assets/ABResources/shaders/GameObject/Lighten.shadergraph
+- Assets/ABResources/shaders/UI/Test.shadergraph
+- Assets/ABResources/shaders/GameObject/ThermalDistortion.shadergraph
+- Assets/ABResources/shaders/UI/UniversalUIBG.shadergraph
+- Assets/ABResources/shaders/UI/BlurMask.shadergraph
+- Assets/ABResources/shaders/GameObject/RuningTrailing.shadergraph
+- Assets/ABResources/shaders/UI/BlurBG.shadergraph
+- Assets/ABResources/shaders/GameObject/Dissolution.shadergraph
+- Assets/ABResources/shaders/UI/ShieldBar.shadergraph
+- Assets/ABResources/shaders/GameObject/NormalDynamicObject.shadergraph
+- Assets/ABResources/shaders/GameObject/LightPoint.shadergraph
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/characters.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/materials.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/specialeffect.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/ui.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/weapons.ab

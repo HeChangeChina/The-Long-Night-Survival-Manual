@@ -1,0 +1,5 @@
+0 = I'm...am ok.
+1 = (panting)
+2 = I need take a rest.
+3 = (nod)
+4 = ......

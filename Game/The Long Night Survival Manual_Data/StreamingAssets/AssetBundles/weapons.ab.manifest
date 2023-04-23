@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 471271591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 949e64d01a3486d7ce65ca866d6e3037
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ede1b47a60e0d7426cd8275e84e2bfd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f848e7edce803a4dafe3acb8b46e893, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6293ebae329c48d40835bd3e639cddfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49941cf4d9aff1b4d9944cfcce096079, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af02fe6543561ba4bb2e0c6c7e8e576c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64d367c842684bf44a9b076ed9a6d3d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22fe25b1ecf27d24c800fb8815b0f38e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d64ae2d440af8bb4a9ba2fea8c575345, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResources/weapons/XueMei/XueMeiHurt.asset
+- Assets/ABResources/weapons/Hail/Hail_normal.png
+- "Assets/ABResources/weapons/CangYing\u2160/CangYing\u2160.asset"
+- Assets/ABResources/weapons/Hail/Hail_energy.png
+- "Assets/ABResources/weapons/Victo\u2161/TestGun02_normal.png"
+- Assets/ABResources/weapons/XueMei/XueMei_overheated.png
+- "Assets/ABResources/weapons/CangYing\u2160/CangYing_carry.png"
+- Assets/ABResources/weapons/TestWeapon/TestGun.png
+- "Assets/ABResources/weapons/Victo\u2161/TestGun02_hold.png"
+- "Assets/ABResources/weapons/Victo\u2161/TestGun02_energy.png"
+- "Assets/ABResources/weapons/CangYing\u2160/CangYing_thumbnail.png"
+- Assets/ABResources/weapons/XueMei/XueMei.asset
+- "Assets/ABResources/weapons/Victo\u2161/Victo\u2161Hurt.asset"
+- "Assets/ABResources/weapons/Victo\u2161/Victo\u2161Bullet.asset"
+- Assets/ABResources/weapons/XueMei/XueMei_energy.png
+- Assets/ABResources/weapons/XueMei/XueMei_carry.png
+- Assets/ABResources/weapons/XueMei/XueMei_standby.png
+- Assets/ABResources/weapons/Hail/HailBullet.asset
+- "Assets/ABResources/weapons/CangYing\u2160/CangYing_overheated.png"
+- Assets/ABResources/weapons/XueMei/XueMei_thumbnail.png
+- Assets/ABResources/weapons/TestWeapon/TestGun_hold.png
+- "Assets/ABResources/weapons/CangYing\u2160/CangYing_hold.png"
+- Assets/ABResources/weapons/XueMei/XueMeiBullet.asset
+- Assets/ABResources/weapons/TestWeapon/TestGun_energy.png
+- "Assets/ABResources/weapons/Victo\u2161/Victo\u2161.asset"
+- "Assets/ABResources/weapons/CangYing\u2160/CangYing_energy.png"
+- Assets/ABResources/weapons/Hail/Hail.asset
+- Assets/ABResources/weapons/Hail/Hail_hold.png
+- Assets/ABResources/weapons/TestWeapon/TestGun_overheated.png
+- Assets/ABResources/weapons/Hail/HailHurt.asset
+- Assets/ABResources/weapons/Hail/Hail_standby.png
+- "Assets/ABResources/weapons/Victo\u2161/VcitoII_thumbnail.png"
+- "Assets/ABResources/weapons/Victo\u2161/TestGun02_overheated.png"
+- "Assets/ABResources/weapons/Victo\u2161/TestGun02_standby.png"
+- Assets/ABResources/weapons/Hail/Hail_thumbnail.png
+- Assets/ABResources/weapons/Hail/Hail_overheated.png
+- "Assets/ABResources/weapons/CangYing\u2160/CangTing\u2160Bullet.asset"
+- Assets/ABResources/weapons/TestWeapon/TestGun_standby.png
+- Assets/ABResources/weapons/TestWeapon/TestWeapon.asset
+- "Assets/ABResources/weapons/CangYing\u2160/CangYing\u2160Hurt.asset"
+- Assets/ABResources/weapons/XueMei/XueMei_hold.png
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/bullet.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/effects.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/filters.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/sightbead.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/skills.ab

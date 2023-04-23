@@ -1,0 +1,15 @@
+magazine_level = 90
+energy_cost_level = 20
+energy_recovery_level = 40
+fire_interval_level = 25
+damage_level = 70
+accuracy_level = 85
+name = 眼镜蛇
+type = 狙击步枪
+magazine = 9发
+energy_cost = 90%
+energy_recovery = 46s
+fire_interval = 1.35s
+damage = 55×2/发
+accuracy = 1°~6°
+description = 火线公司™于新历989年推出的面向高端市场的狙击步枪。全枪枪身采用了开尔文金属单次注能成型，因此具有极高的硬度与散热效率；枪托使用产自曼伊的高原红木雕刻而成，呈现出独一无二的特殊纹理，并配备了复杂的缓冲机械结构与减震回路，以满足持续射击的需要；能量核心采用了最新的单核心压缩技术，输出功率达到了90kvs，子弹的破坏力足以匹敌5级法术。<br><br>这把枪是一款跨时代性的产品，它突破了过往小型单核能量核心78kvs的输出功率上限，在成本没有明显提高的同时输出功率达到了稳定的90kvs，证明了核心压缩技术的商业性成熟。

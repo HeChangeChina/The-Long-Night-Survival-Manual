@@ -1,0 +1,2 @@
+name = 未知技能
+description = 你还未学会此技能

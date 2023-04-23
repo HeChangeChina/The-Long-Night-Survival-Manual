@@ -1,0 +1,17 @@
+topic = Equipment
+main = Primary Weapon
+vice = Secondary Weapon
+consumables = Consumables
+equiped = Equiped
+to_main01 = Equip to primary weaponⅠ
+to_main02 = Equip to primary weaponⅡ
+al_main01 = Equiped to primary weaponⅠ
+al_main02 = Equiped to primary weaponⅡ
+to_vice = Equip to secondary weapon
+al_vice = Equiped to secondary weapon
+magazine = Magazine
+energy_cost = Energy cost
+energy_recovery = Energy recovery
+fire_interval = Fire interval
+damage = Damage
+accuary = Accuary

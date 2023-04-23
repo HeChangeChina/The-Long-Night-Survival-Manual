@@ -1,0 +1,10 @@
+Unknown = Unknown Skill
+ManyeSword = Manye's Sword
+FireBall = Fire Ball
+IceWind = Ice Wind
+StoneStab = Stone Stab
+ChainSaw = Chain Saw
+ShieldStrike = Shield Strike
+MagicOverload = Magic Overload
+MagicStar = Magic Star
+Resist = Resist

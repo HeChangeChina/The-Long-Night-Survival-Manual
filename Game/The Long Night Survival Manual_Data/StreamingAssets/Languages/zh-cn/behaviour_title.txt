@@ -1,0 +1,5 @@
+MagicOverload = 魔力过载
+SnowGirl_Cold = 寒冷
+Cheater = 辅助模式
+MagicStar = 魔力新星
+Scared = 震慑

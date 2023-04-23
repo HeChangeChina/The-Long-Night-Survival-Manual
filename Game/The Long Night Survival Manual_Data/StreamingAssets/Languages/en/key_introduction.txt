@@ -1,0 +1,7 @@
+0 = Press <color=#32afeb>WASD</color> to move.
+1 = Hold <color=#32afeb>Shift</color> to rush.
+2 = Press <color=#32afeb>Space</color> to roll.
+3 = Press <color=#32afeb>Ctrl</color> to switch run/walk.
+4 = Press <color=#32afeb>Number1 2 3</color> to switch weapon.
+5 = When you <color=#eb8c32>hold a weapon</color>, hold <color=#32afeb>Right Mouse</color> to aim. When you are <color=#eb8c32>aiming</color> , hold <color=#32afeb>Left Mouse</color> to fire.
+6 = Press <color=#32afeb>R</color> to reload.

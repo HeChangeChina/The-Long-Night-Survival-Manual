@@ -1,0 +1,5 @@
+MagicOverload = Mana recover speed and magical strength enhanced
+SnowGirl_Cold = Speed and physical strength recover speed reduced
+Cheater = Take fewer damage and deal more damage
+MagicStar = Magical nova helps you defeat your enemies
+Scared = Deal fewer damage

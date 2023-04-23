@@ -1,0 +1,5 @@
+skill_notenoughcost = 技能消耗不足
+skill_incd = 技能正在冷却
+skill_disabled = 现在无法释放该技能
+cheater_on = 已开启辅助模式
+cheater_off = 已关闭辅助模式

@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 73607907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32ec1f2fdd7865e4d8255b6eaf329573
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e979387cd9c4b11b845531920741b8d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.LightUtility/LightMeshVertex
+Assets:
+- Assets/ABResources/bullet/ManyeSwordBullet/ManyeSwordBulletStart.anim
+- Assets/ABResources/bullet/UniversalBullet/UniversalShotGunBullet.prefab
+- Assets/ABResources/bullet/MiddleParticleBullet/MiddleParticleBullet.prefab
+- Assets/ABResources/bullet/ManyeSwordBullet/ManyeSwordBulletCircle.anim
+- Assets/ABResources/bullet/UniversalBullet/UniversalShotGunBullet.anim
+- Assets/ABResources/bullet/ManyeSwordBullet/ManyeSwordBullet.prefab
+- Assets/ABResources/bullet/SmallPacticleBullet/SmallPacticleBullet.png
+- Assets/ABResources/bullet/SmallTwinkleBullet/SmallTwinkleBullet.anim
+- Assets/ABResources/bullet/SmallPacticleBullet/SmallPacticleBullet.anim
+- Assets/ABResources/bullet/ManyeSwordBullet/ManyeSwordBullet.png
+- Assets/ABResources/bullet/SmallNeedle/SmallNeedle.prefab
+- Assets/ABResources/bullet/SmallTwinkleBullet/SmallTwinkleBullet.png
+- Assets/ABResources/bullet/SmallPacticleBullet/SmallPacticleBullet.controller
+- Assets/ABResources/bullet/UniversalBullet/UniversalShotGunBullet.controller
+- Assets/ABResources/bullet/SmallTwinkleBullet/SmallTwinkleBullet.controller
+- Assets/ABResources/bullet/ManyeSwordBullet/ManyeSwordBullet.controller
+- Assets/ABResources/bullet/MiddleParticleBullet/MiddlePacticleBullet.png
+- Assets/ABResources/bullet/SmallPacticleBullet/SmallPacticleBullet.prefab
+- Assets/ABResources/bullet/MiddleParticleBullet/MiddlePacticleBullet.controller
+- Assets/ABResources/bullet/MiddleParticleBullet/MiddleParticle.anim
+- Assets/ABResources/bullet/UniversalBullet/UniversalMiddleBullet.prefab
+- Assets/ABResources/bullet/SmallTwinkleBullet/SmallTwinkleBullet.prefab
+- Assets/ABResources/bullet/UniversalBullet/UniversalShotGunBullet.png
+- Assets/ABResources/bullet/SmallNeedle/SmallNeedle.png
+- Assets/ABResources/bullet/ManyeSwordBullet/ManyeSwordBulletEnd.anim
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/materials.ab

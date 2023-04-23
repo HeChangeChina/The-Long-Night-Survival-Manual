@@ -1,0 +1,4 @@
+name = English
+auto = Auto(English)
+id = 10
+dirname = en

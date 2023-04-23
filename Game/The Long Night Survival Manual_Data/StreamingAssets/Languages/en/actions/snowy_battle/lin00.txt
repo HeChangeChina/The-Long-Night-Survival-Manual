@@ -1,0 +1,9 @@
+0 = Ah, you got here.
+1 = Go in when you're ready, Snowy is already waiting for you inside.
+2 = ...em.
+3 = Did you bring up these scarecrows?
+4 = I only brought one. Lily brought the others. 
+5 = I have installed shield generators on it, so you can use them to try your gun.
+6 = Oh, right. I also bring some of your guns and spells' mark into that equipment box! 
+7 = I see. You were laborious.
+8 = hey-hey……

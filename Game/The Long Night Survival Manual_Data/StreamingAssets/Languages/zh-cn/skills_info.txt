@@ -1,0 +1,9 @@
+topic = 法术
+nature_skill = 自然法术
+evocation_skill = 塑能法术
+decomposition_skill = 解构法术
+
+change_equipment = 更改法术位置
+equip = 装备法术
+equip_delete = 解除法术
+equip_cancel = 取消

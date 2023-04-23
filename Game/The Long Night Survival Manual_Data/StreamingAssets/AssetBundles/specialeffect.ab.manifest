@@ -1,0 +1,269 @@
+ManifestFileVersion: 0
+CRC: 251630769
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f8ca766db69dbe4786033e046d81131
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 109b7fe00e0e1c2322858df2c2587983
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea557092e7699ee4eb09c86ef1047dd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf3c791db0e232346998c9ea0be32908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db35fa47720026f43863e20845af414d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f848e7edce803a4dafe3acb8b46e893, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d92fba531bbecb43a0df7c9ce17ff22, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cdff1ca5b902ee4a9d0a0fe81682627, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6293ebae329c48d40835bd3e639cddfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d768ad0f39ad034090e55c4ca6a7742, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91466348295b1d14b9314aa15ebd4e80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22fe25b1ecf27d24c800fb8815b0f38e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d64ae2d440af8bb4a9ba2fea8c575345, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f5cfd8bb73559d4cadbbd987365e527, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: AnimationEvents/EventTarget
+- AssemblyName: Assembly-CSharp
+  ClassName: CustomAnimation
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.LightUtility/LightMeshVertex
+Assets:
+- Assets/ABResources/specialEffect/MiddleFireSmoke/MiddleFireSmoke.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 5/SnowGirl_Attack_5_matrix.prefab
+- Assets/ABResources/specialEffect/SmallFire/SmallFire.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 3/TrailingFog.png
+- Assets/ABResources/specialEffect/SnowGirl/SnowGirl_BattleStart_dark.anim
+- Assets/ABResources/specialEffect/SmallBloodSpray/SmallBloodSpray.png
+- Assets/ABResources/specialEffect/RollSmoke/RollStartSmoke.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 7/SnowGril_Attack_7_prepare.png
+- Assets/ABResources/specialEffect/SmallSmoke/SmallSmoke.controller
+- Assets/ABResources/specialEffect/SnowGirl/GroundWind/SnowGirl_GroundWind.anim
+- Assets/ABResources/specialEffect/MiddleFireHit/MiddleFireHit.prefab
+- Assets/ABResources/specialEffect/MiddleFire/MiddleFire.prefab
+- Assets/ABResources/specialEffect/SmallFireHit/SmallFireHit.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 4/SnowGirl_Attack_4_prepare.anim
+- Assets/ABResources/specialEffect/SnowGirl/SnowGirl_BattleStart_dark.controller
+- Assets/ABResources/specialEffect/MiddleFire/MiddleFire.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirlAttack_2_prepare.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 5/SnowGirl_Attack_5_attachment.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirlAttack_2_prepare.controller
+- Assets/ABResources/specialEffect/HackHit.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 7/SnowGirl_Attack_7_prepare.controller
+- Assets/ABResources/specialEffect/SnowGirl/WindBullet/SnowGirl_WindBullet.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGril_StaticLight_1.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 5/SnowGirl_matrix.png
+- Assets/ABResources/specialEffect/SnowGirl/IceCone/SnowGirlIceConeTrailing.png
+- Assets/ABResources/specialEffect/SnowGirl/SnowFlakePacticle.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirl_GroundSmoke.png
+- Assets/ABResources/specialEffect/SmallFire/SmallFire.controller
+- Assets/ABResources/specialEffect/SnowGirl/PickSword/SnowGirl_PickSword.png
+- Assets/ABResources/specialEffect/SmallFireSmoke/SmallFireSmoke.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirlAttack_1_Wave.anim
+- Assets/ABResources/specialEffect/SnowGirl/Back/SnowGirlBackOL.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirl_Attack_2_fire.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 5/SnowGirl_Attack_5_smoke.controller
+- Assets/ABResources/specialEffect/SnowGirl/BeHitted/SnowGirlBeHitted.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirlAttack2Pointer.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGril_StaticLight.png
+- Assets/ABResources/specialEffect/SnowGirl/Stage2/SnowGril_Attack_4_stage2.png
+- Assets/ABResources/specialEffect/ShieldHitted/Middle/MiddleShieldHitted.prefab
+- Assets/ABResources/specialEffect/AssaultMiddleHit/AssaultMiddleHit.anim
+- Assets/ABResources/specialEffect/SnowGirl/HitTarget/SnowGirlHitTarget.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 3/SnowGirlAttack3_prepare.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 7/SnowGirl_Attack_7_hit.prefab
+- Assets/ABResources/specialEffect/SmallBloodSpray/SmallBolldSpray.controller
+- Assets/ABResources/specialEffect/RollSmoke/RollFallSmoke.prefab
+- Assets/ABResources/specialEffect/SnowGirl/ShieldHitted/SnowGirlShieldHitted.controller
+- Assets/ABResources/specialEffect/SmallFire/SmallFire.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirlAttack_1_Prepare.anim
+- Assets/ABResources/specialEffect/SnowGirl/ShieldHitted/SnowGirlShieldHitted.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 3/SnowGirlIcicle.controller
+- Assets/ABResources/specialEffect/ShieldHitted/Middle/MiddleShieldDefend.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 3/SnowGirlIcicle Start.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirlAttack_2_fire.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 3/SnowGirlIcicle Prepare.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirlAttack_2_fire.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 0/SnowGirlAttack_0.controller
+- Assets/ABResources/specialEffect/SnowGirl/BeHitted/SnowGirlBeHitted.prefab
+- Assets/ABResources/specialEffect/SnowGirl/PickSword/SnowGirl_PickSword.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 7/SnowGirl_Attack_7_prepare.prefab
+- Assets/ABResources/specialEffect/SnowGirl/GroundWind/SnowGirl_GroundWind.png
+- Assets/ABResources/specialEffect/SnowGirl/PickSword/SnowGirl_PickSword.anim
+- Assets/ABResources/specialEffect/SnowGirl/GroundWind/SnowGirl_GroundWind.prefab
+- Assets/ABResources/specialEffect/SnowGirl/PickSwordHand/SnowGirl_PickSwordHand.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirl_GroundIceMask.png
+- Assets/ABResources/specialEffect/SnowGirl/Back/SnowGirlBackOL.anim
+- Assets/ABResources/specialEffect/ShieldHitted/ShieldHitted.png
+- Assets/ABResources/specialEffect/AssaultMiddleHit/AssaultMiddleHit.prefab
+- Assets/ABResources/specialEffect/SmallFireSmoke/SmallFireSmoke.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirl_Attack_2_prepare.png
+- Assets/ABResources/specialEffect/SmallBloodSpray/SmallBloodSpray.anim
+- Assets/ABResources/specialEffect/SnowGirl/PickSword/SnowGirl_PickSword.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 6/SnowGril_Attack_6_hit.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 7/SnowGirl_Attack_7_hit.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 4/SnowGirl_Attack_4_prepare.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirlAttack_2_fire.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirlAttack_2_prepare.anim
+- Assets/ABResources/specialEffect/UniversalShockWave/shockwave.png
+- Assets/ABResources/specialEffect/SnowGirl/ShieldHitted/SnowGirlShieldHitted.prefab
+- Assets/ABResources/specialEffect/RollSmoke/Roll Fall.anim
+- Assets/ABResources/specialEffect/MiddleFireHit/MiddleFireHit.controller
+- Assets/ABResources/specialEffect/SnowGirl/SwordReady/SnowGirl_SwordReady.png
+- Assets/ABResources/specialEffect/SnowGirl/GroundWind/SnowGirl_GroundWind.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 4/SnowGirl_Attack_4_hit.prefab
+- Assets/ABResources/specialEffect/SnowGirl/SwordReady/SnowGirl_SwordReady.anim
+- Assets/ABResources/specialEffect/CircleFireHit/CircleFireHit.prefab
+- Assets/ABResources/specialEffect/SmallFireSmoke/SmallFireSmoke.png
+- Assets/ABResources/specialEffect/RollSmoke/RollStartSmoke.controller
+- Assets/ABResources/specialEffect/MiddleFireSmoke/MiddleFireSmoke.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 7/SnowGril_Attack_7_Hit.png
+- Assets/ABResources/specialEffect/SnowGirl/PickSwordHand/SnowGirl_PickSwordHand.png
+- Assets/ABResources/specialEffect/SnowGirl/IceConeHit/SnowGirlIceConeHit.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 0/SnowGirl_Attack_0_light.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 7/SnowGirl_Attack_7_idle.anim
+- Assets/ABResources/specialEffect/SnowGirl/SnowGirl_BattleStart_dark.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirlAttack_1_Darkness.anim
+- Assets/ABResources/specialEffect/SnowGirl/IceCone/SnowGirlIceCone.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 4/SnowGirl_Attack_4_hit.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirl_GroundLight.png
+- Assets/ABResources/specialEffect/SnowGirl/HitTarget/SnowGirlHitTarget.prefab
+- Assets/ABResources/specialEffect/SmallSmoke/smoke_small.png
+- Assets/ABResources/specialEffect/SnowGirl/Stage2/SnowGirl_Stage2.anim
+- Assets/ABResources/specialEffect/SmallFireSmoke/SmallFireSmoke.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 7/SnowGirl_Attack_7_prepare.anim
+- Assets/ABResources/specialEffect/SmallSmoke/SmallSmoke.anim
+- Assets/ABResources/specialEffect/SnowGirl/Stage2/SnowGirl_Stage2.controller
+- Assets/ABResources/specialEffect/SnowGirl/PickSwordHand/SnowGirl_PickSwordHand.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 0/SnowGirlAttack_0.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirlAttack_1_Wave.prefab
+- Assets/ABResources/specialEffect/MiddleFireSmoke/MiddleFireSmoke.anim
+- Assets/ABResources/specialEffect/MiddleFireSmoke/MiddleFireSmoke.controller
+- Assets/ABResources/specialEffect/RollSmoke/Roll Start.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 5/Sprite.controller
+- Assets/ABResources/specialEffect/SnowGirl/BeHitted/SnowGirlBeHitted.anim
+- Assets/ABResources/specialEffect/SnowGirl/Back/SnowGirlBackOL.prefab
+- Assets/ABResources/specialEffect/SmallFireHit/SmallFireHit.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirl_Attack_1_darkness.controller
+- Assets/ABResources/specialEffect/SnowGirl/SwordReady/SnowGirl_SwordReady.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirl_Attack_1_Stone.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirl_GroundImg.png
+- Assets/ABResources/specialEffect/TestPoint/TestPoint.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 5/SnowGirl_Attack_5_attachment.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 3/SnowGirlIcicle.prefab
+- Assets/ABResources/specialEffect/SnowGirl/PickSwordHand/SnowGirl_PickSwordHand.controller
+- Assets/ABResources/specialEffect/RollSmoke/RollFallSmoke.controller
+- Assets/ABResources/specialEffect/CircleFireHit/CircleFireHit.png
+- Assets/ABResources/specialEffect/TestPoint/TestPoint.prefab
+- Assets/ABResources/specialEffect/SmallBloodSpray/SmallBloodSpray.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 6/SnowGirl_Attack_6_hit.anim
+- Assets/ABResources/specialEffect/MiddleFireHit/MiddleFireHit.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 5/SnowGirl_Attack_5_smoke.anim
+- Assets/ABResources/specialEffect/CircleFireHit/CircleFireHit.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 0/SnowGirlAttack_0_light.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 3/SnowGirlIcicle.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 3/SnowGirlIcicle Fall.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirlAttack_1_Wave.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirlAttack2Pointer.controller
+- Assets/ABResources/specialEffect/SnowGirl/WindBullet/SnowGirl_CircleTrailing.png
+- Assets/ABResources/specialEffect/AssaultMiddleHit/AssaultMiddleHit.controller
+- Assets/ABResources/specialEffect/SnowGirl/WindBullet/SnowGirl_CircleParticle.mat
+- Assets/ABResources/specialEffect/AssaultMiddleHit/AssaultMiddleHit.png
+- Assets/ABResources/specialEffect/SnowGirl/HitTarget/SnowGirlHitTarget.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirlAttack_1_Prepare.png
+- Assets/ABResources/specialEffect/SmallFireHit/SmallFireHit.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 5/SnowGirl_Attack_5_smoke.prefab
+- Assets/ABResources/specialEffect/ShieldHitted/Middle/MiddleShieldHitted.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 4/SnowGril_Attack_4_prepare.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirlAttack_1_Prepare.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 4/SnowGril_Attack_4_hit.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 5/SnowGirl_Attack_5_matrix.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirlAttack_1_Prepare.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 6/SnowGirl_Attack_6_hit.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 3/SnowGirlAttack3_prepare.png
+- Assets/ABResources/specialEffect/RollSmoke/RollSmoke.png
+- Assets/ABResources/specialEffect/MiddleFire/MiddleFire.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 7/SnowGirl_Attack_7_hit.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 5/SnowGirl_Attack_5_attachment.anim
+- Assets/ABResources/specialEffect/SmallFire/SmallFire.png
+- Assets/ABResources/specialEffect/CircleFireHit/CircleFireHit.anim
+- Assets/ABResources/specialEffect/SnowGirl/Back/SnowGirlBackOL.controller
+- Assets/ABResources/specialEffect/SnowGirl/IceCone/SnowGirlIceCone.prefab
+- Assets/ABResources/specialEffect/SnowGirl/HitTarget/SnowGirlHitTarget.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 2/SnowGirlAttack_2_pointer.anim
+- Assets/ABResources/specialEffect/MiddleFireHit/MiddleFireHit.png
+- Assets/ABResources/specialEffect/SmallSmoke/SmallSmoke.prefab
+- Assets/ABResources/specialEffect/MiddleFire/MiddleFire.controller
+- Assets/ABResources/specialEffect/SnowGirl/SwordReady/SnowGirl_SwordReady.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirl_Attack_1_Darkness.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 4/SnowGirl_Attack_4_prepare.prefab
+- Assets/ABResources/specialEffect/SnowGirl/ShieldHitted/SnowGirlShieldHitted.png
+- Assets/ABResources/specialEffect/TestPoint/TestPoint.anim
+- Assets/ABResources/specialEffect/SnowGirl/Attack 0/SnowGirl_Attack_0_light.controller
+- Assets/ABResources/specialEffect/SnowGirl/Stage2/SnowGirl_Stage2.prefab
+- Assets/ABResources/specialEffect/SnowGirl/IceConeHit/SnowGirlIcePatch.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 6/SnowGirl_Attack_6_hit.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 0/SnowGirl_Attack_0_light.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 3/SnowGirlAttack3_prepare.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 0/SnowGirl_Attack_0.png
+- Assets/ABResources/specialEffect/SmallFireHit/SmallFireHit.png
+- Assets/ABResources/specialEffect/SnowGirl/Attack 4/SnowGirl_Attack_4_hit.controller
+- Assets/ABResources/specialEffect/SnowGirl/Attack 0/SnowGirlAttack_0.prefab
+- Assets/ABResources/specialEffect/SnowGirl/Attack 1/SnowGirl_Attack_1_Wave.png
+- Assets/ABResources/specialEffect/ShieldHitted/Middle/MiddleShieldHitted.anim
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/characters.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/effects.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/filters.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/materials.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/shaders.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/ui.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/weapons.ab

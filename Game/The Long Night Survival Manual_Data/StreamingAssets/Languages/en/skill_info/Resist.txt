@@ -1,0 +1,11 @@
+name = Resist
+
+slider_title_1 = Mana Cost
+slider_description_1 = 14
+slider_level_1 = 36
+
+slider_title_2 = Cooldown
+slider_description_2 = 10s
+slider_level_2 = 53
+
+description = Compress your own mana and detonate it in an instant, dealing 10 spell damage and massive impact to all nearby enemies.

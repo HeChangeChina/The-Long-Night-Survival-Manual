@@ -1,0 +1,17 @@
+topic = 装备
+main = 主武器
+vice = 副武器
+consumables = 消耗品
+equiped = 已装备
+to_main01 = 装备至主武器Ⅰ
+to_main02 = 装备至主武器Ⅱ
+al_main01 = 已装备至主武器Ⅰ
+al_main02 = 已装备至主武器Ⅱ
+to_vice = 装备至副武器
+al_vice = 已装备至副武器
+magazine = 载弹量
+energy_cost = 能量消耗
+energy_recovery = 能量恢复
+fire_interval = 开火间隔
+damage = 伤害
+accuary = 精度

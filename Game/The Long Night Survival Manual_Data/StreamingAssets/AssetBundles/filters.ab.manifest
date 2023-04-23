@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3230882971
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f704af715378d4d94eb2f55769f9a5ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 387f2f5bc7dcfa537eb13a415628a327
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d8f58ba26d5d6149997cdf22cafbb75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89b6681ae977e464f92bdd60cd39d876, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d683fc526276e1545badf0bcc4d30d67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d64ae2d440af8bb4a9ba2fea8c575345, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f5cfd8bb73559d4cadbbd987365e527, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d98c4fb5c4050a04383d692e2a13e933, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResources/filters/NotControllable.asset
+- Assets/ABResources/filters/False.asset
+- Assets/ABResources/filters/IsBusy.asset
+- Assets/ABResources/filters/NotAiming.asset
+- Assets/ABResources/filters/IsRushing.asset
+- Assets/ABResources/filters/NotMoving.asset
+- Assets/ABResources/filters/True.asset
+- Assets/ABResources/filters/IsAlly.asset
+- Assets/ABResources/filters/NotSkillRelease.asset
+- Assets/ABResources/filters/IsRolling.asset
+- Assets/ABResources/filters/NotRushing.asset
+- Assets/ABResources/filters/NotRushOrRoll.asset
+- Assets/ABResources/filters/NotRollingAndSkillRelease.asset
+- Assets/ABResources/filters/NotBusy.asset
+- Assets/ABResources/filters/IsAiming.asset
+- Assets/ABResources/filters/IsControllable.asset
+- Assets/ABResources/filters/IsSelectable.asset
+- Assets/ABResources/filters/NotRolling.asset
+- Assets/ABResources/filters/IsPreparingSkill.asset
+- Assets/ABResources/filters/IsSelectableEnemy.asset
+- Assets/ABResources/filters/IsEnemy.asset
+- Assets/ABResources/filters/IsUsingSkill.asset
+- Assets/ABResources/filters/IsSkillRelease.asset
+- Assets/ABResources/filters/IsUnselectable.asset
+- Assets/ABResources/filters/IsWalking.asset
+- Assets/ABResources/filters/IsEndingSkill.asset
+- Assets/ABResources/filters/IsMoving.asset
+Dependencies: []

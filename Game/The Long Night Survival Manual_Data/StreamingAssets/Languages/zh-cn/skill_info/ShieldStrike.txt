@@ -1,0 +1,16 @@
+name = 盾牌反击
+
+slider_title_1 = 法力消耗
+slider_description_1 = 15
+slider_level_1 = 40
+
+slider_title_2 = 体力消耗
+slider_description_2 = 15
+slider_level_2 = 40
+
+
+slider_title_3 = 冷却
+slider_description_3 = 6s
+slider_level_3 = 30
+
+description = 凝聚法力并化为盾牌向鼠标指针方向猛烈挥击，在挥击的过程中可以抵挡来自该方向的至多100点伤害，且不会被来自该方向的攻击击退或者击飞。<br>如果在使用的瞬间抵挡了来自该方向的攻击，则可以再次使用来甩出盾牌，对接触的第一名敌人造成100点法术伤害。

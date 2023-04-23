@@ -1,0 +1,9 @@
+topic = Spell
+nature_skill = Nature Spell
+evocation_skill = Evocation Spell
+decomposition_skill = Decomposition Spell
+
+change_equipment = Change
+equip = Equip
+equip_delete = Remove
+equip_cancel = Cancel

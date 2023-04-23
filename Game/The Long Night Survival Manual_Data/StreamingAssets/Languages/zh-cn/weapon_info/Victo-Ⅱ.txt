@@ -1,0 +1,15 @@
+magazine_level = 40
+energy_cost_level = 45
+energy_recovery_level = 65
+fire_interval_level = 85
+damage_level = 25
+accuracy_level = 70
+name = 维克托-Ⅱ
+type = 突击步枪
+magazine = 28发
+energy_cost = 50%
+energy_recovery = 33s
+fire_interval = 0.125s
+damage = 12.5/发
+accuracy = 2.2°~8.4°
+description = 道尔顿公司™于新历974年面向市场发售的罗亚洛斯帝国独立45周年纪念款枪械。它采用了军工产品维克托-Ⅰ的模具与设计，也因此保留了许多维克托-Ⅰ的优点——高精度、高能量回转率、高环境耐性。同时，它也像维克托-Ⅰ一样，能够在断开魔力信号塔的连接后，使用使用者的魔力作为输入继续开火。可以说，这款产品完完全全是降低核心频率的维克托-Ⅰ，因此在广受军迷的欢迎，上市后数月内都处于缺货状态。

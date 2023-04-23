@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2892500196
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d491139e0e3a35aadffd6f2d429e51e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 137418db0eae44e589a297ef38c0251a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ABResources/characters/player/Hei/Hei ViceGather.anim
+- Assets/ABResources/characters/player/Hei/Hei VicePick.anim
+- Assets/ABResources/characters/player/Hei/Hei Run.anim
+- Assets/ABResources/characters/player/Hei/Hei SwitchFinish.anim
+- Assets/ABResources/characters/player/Hei/Hei Idle.anim
+- Assets/ABResources/characters/player/Hei/Hei MainGather.anim
+- Assets/ABResources/characters/player/Hei/Hei AimBackward.anim
+- Assets/ABResources/characters/player/Hei/hei_new.png
+- Assets/ABResources/characters/player/Hei/Hei Roll.anim
+- Assets/ABResources/characters/player/Hei/Hei Walk.anim
+- Assets/ABResources/characters/player/Hei/Hei None.anim
+- Assets/ABResources/characters/player/Hei/Hei MainPick.anim
+- Assets/ABResources/characters/player/Hei/Hei RollPrepare.anim
+- Assets/ABResources/characters/player/Hei/Hei AimForward.anim
+- Assets/ABResources/characters/player/Hei/Hei Animator.controller
+- Assets/ABResources/characters/player/Hei/Hei Aim.anim
+- Assets/ABResources/characters/player/Hei/Hei Img.png
+- Assets/ABResources/characters/player/Hei/Hei Rush.anim
+- Assets/ABResources/characters/player/Hei/Hei RushPrepare.anim
+Dependencies: []

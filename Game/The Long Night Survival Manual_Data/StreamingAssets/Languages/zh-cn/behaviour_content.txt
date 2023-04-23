@@ -1,0 +1,5 @@
+MagicOverload = 法力值回复速度与法术强度提高
+SnowGirl_Cold = 移动速度与体力恢复速度降低
+Cheater = 受到的伤害降低，造成的伤害提高
+MagicStar = 魔力新星会协助攻击你的敌人
+Scared = 该单位造成的伤害降低

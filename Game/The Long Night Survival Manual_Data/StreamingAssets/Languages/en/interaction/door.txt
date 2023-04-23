@@ -1,0 +1,3 @@
+interact = Open
+interact_object = Controller
+lock = Controller is locked

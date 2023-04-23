@@ -1,0 +1,7 @@
+0 = Wu...
+1 = I'm sorry. Did I hurt you?
+2 = (Shaking head)
+3 = you w.. win.
+4 = ...
+5 = Thanks.
+6 = That's is the end of this demo, thanks for your playing.

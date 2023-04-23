@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 3367975895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c679603e7c75b545fb49fd382b46d4a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b66bee278c611ef7eb5a0f5e3d840ac6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 62
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResources/materials/physical/CharacterM.physicsMaterial2D
+- Assets/ABResources/materials/sprite/SnowGirlGroundSmoke.mat
+- Assets/ABResources/materials/sprite/LitObjectMask.mat
+- Assets/ABResources/materials/BlurMask.renderTexture
+- Assets/ABResources/materials/sprite/SnowGirlIceConeTrailing.mat
+- Assets/ABResources/materials/sprite/BlurBG.mat
+- Assets/ABResources/materials/sprite/ShieldBar.mat
+- Assets/ABResources/materials/sprite/LitTrailingWhite.mat
+- Assets/ABResources/materials/sprite/FeatherParticle.mat
+- Assets/ABResources/materials/sprite/TestBlur.mat
+- Assets/ABResources/materials/sprite/NormalDynamicObject.mat
+- Assets/ABResources/materials/sprite/SnowGirlLight.mat
+- Assets/ABResources/materials/sprite/MagicBar.mat
+- Assets/ABResources/materials/sprite/UniversalWeapon.mat
+- Assets/ABResources/materials/sprite/MaskLit.mat
+- Assets/ABResources/materials/sprite/SnowGirlIceConeHit.anim
+- Assets/ABResources/materials/sprite/PlayerUIBG.mat
+- Assets/ABResources/materials/sprite/SnowGirlIcicleSmoke.mat
+- Assets/ABResources/materials/sprite/TestTrailing.mat
+- Assets/ABResources/materials/test.mat
+- Assets/ABResources/materials/sprite/LitObjectR.mat
+- Assets/ABResources/materials/sprite/UniversalLightPoint.mat
+- Assets/ABResources/materials/sprite/ThermalDistortion.mat
+- Assets/ABResources/materials/sprite/SnowGirlSnowFlake.mat
+- Assets/ABResources/materials/sprite/Dialog.mat
+- Assets/ABResources/materials/sprite/SmoothTrailing.mat
+- Assets/ABResources/materials/physical/UniversalM.physicsMaterial2D
+- Assets/ABResources/materials/sprite/SnowGirlStaticLight_0.mat
+- Assets/ABResources/materials/sprite/LightenPurple.mat
+- Assets/ABResources/materials/sprite/UniversalUIBG.mat
+- Assets/ABResources/materials/sprite/DistortionTrailing.mat
+- Assets/ABResources/materials/sprite/HealthBar.mat
+- Assets/ABResources/materials/sprite/BlurMixer.mat
+- Assets/ABResources/materials/sprite/StoneParticle.mat
+- Assets/ABResources/materials/sprite/SightBead.mat
+- Assets/ABResources/materials/sprite/SnowGirlIceConeHit.controller
+- Assets/ABResources/materials/sprite/UniversalTrailing.mat
+- Assets/ABResources/materials/sprite/UniversalGoldParticle.mat
+- Assets/ABResources/materials/sprite/SnowGirlStaticLight_1.mat
+- Assets/ABResources/materials/sprite/IceGround.mat
+- Assets/ABResources/materials/sprite/MixTrailing.mat
+- Assets/ABResources/materials/sprite/LightenSnow.mat
+- Assets/ABResources/materials/sprite/LightenBlue.mat
+- Assets/ABResources/materials/SceneTexture.renderTexture
+- Assets/ABResources/materials/sprite/LightenWhite.mat
+- Assets/ABResources/materials/sprite/ShockWave.mat
+- Assets/ABResources/materials/sprite/DialogSwitch.mat
+- Assets/ABResources/materials/sprite/LightPointBlue.mat
+- Assets/ABResources/materials/sprite/UniversalPurplePacticle.mat
+- Assets/ABResources/materials/sprite/TestShader.mat
+- Assets/ABResources/materials/sprite/UniversalTrianglePacticle.mat
+- Assets/ABResources/materials/sprite/SnowGirlIcePatch.mat
+- Assets/ABResources/materials/sprite/LitObjectY.mat
+- Assets/ABResources/materials/sprite/UniversalCrossParticle.mat
+- Assets/ABResources/materials/sprite/LitObjectW.mat
+- Assets/ABResources/materials/sprite/SnowCrossParticle.mat
+- Assets/ABResources/materials/sprite/BlurMask.mat
+- Assets/ABResources/materials/sprite/SnowGirlIcicle.mat
+- Assets/ABResources/materials/sprite/UniversalBluePacticle.mat
+- Assets/ABResources/materials/sprite/LightenGold.mat
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/shaders.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/specialeffect.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/ui.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/weapons.ab

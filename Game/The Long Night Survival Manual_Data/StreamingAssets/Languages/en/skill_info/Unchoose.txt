@@ -1,0 +1,2 @@
+name =  Unchoosen Skill
+description = No skill is selected

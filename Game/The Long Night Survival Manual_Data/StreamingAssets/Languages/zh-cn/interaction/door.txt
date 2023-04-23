@@ -1,0 +1,3 @@
+interact = 开门
+interact_object = 控制器
+lock = 控制器被锁定

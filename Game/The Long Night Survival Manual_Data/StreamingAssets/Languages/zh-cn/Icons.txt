@@ -1,0 +1,10 @@
+Unknown = 未知技能
+ManyeSword = 曼伊·审判之光
+FireBall = 火球术
+IceWind = 吹冰术
+StoneStab = 石锥术
+ChainSaw = 化形链锯
+ShieldStrike = 盾牌反击
+MagicOverload = 魔力激活
+MagicStar = 魔力新星
+Resist = 抗拒

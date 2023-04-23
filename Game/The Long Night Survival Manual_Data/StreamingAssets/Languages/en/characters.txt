@@ -1,0 +1,12 @@
+未知的生物 = Unknown Creature
+稻草人 = Scarecrow
+黑 = Hei
+陈琳 = Lin
+小雪 = Snowy
+“小雪” = "Snowy"
+操作指南 = Operation Manual
+注意事项 = Note
+苍鹰Ⅰ = GoshawkⅠ
+冰雹 = Hail
+控制器 = Controller
+Guider = Guide

@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1356332127
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86a828b34b85b31352e72bb5956f34ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c8d95d835f75644b35a2d63eb01f6c6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37d952404274afc469e0f7e7f6fd4371, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: CooldownResource
+- AssemblyName: Assembly-CSharp
+  ClassName: CustomAnimation
+- AssemblyName: Assembly-CSharp
+  ClassName: SkillTargetType
+Assets:
+- Assets/ABResources/characters/environment/LightDoor/LightDoor Active.anim
+- Assets/ABResources/characters/environment/LightDoor/LightDoor.mat
+- Assets/ABResources/characters/environment/LightDoor/LightDoor_base.png
+- Assets/ABResources/characters/environment/LightDoor/LightDoor_light.png
+- Assets/ABResources/characters/environment/Others/Mess.png
+- Assets/ABResources/characters/environment/LightDoor/LightDoor ToActive.anim
+- Assets/ABResources/characters/environment/LightDoor/LightDoor Disabled.anim
+- Assets/ABResources/characters/environment/LightDoor/LightDoor.controller
+- Assets/ABResources/characters/environment/LightDoor/LightDoor_Active.asset
+- Assets/ABResources/characters/environment/Num3/TraningGround_Num3.png
+- Assets/ABResources/characters/environment/Others/WeaponBox.png
+- Assets/ABResources/characters/environment/Wall/TraningGround_HWall.png
+- Assets/ABResources/characters/environment/Others/WoodDesk.png
+- Assets/ABResources/characters/environment/Wall/TraningGround_VWall.png
+- Assets/ABResources/characters/environment/WallController/WallController.png
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/shaders.ab

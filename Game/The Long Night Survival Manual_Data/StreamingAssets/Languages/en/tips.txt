@@ -1,0 +1,7 @@
+0 = You can avoid injury if you roll at the right time.
+1 = Rolling can't be continuously use in a short time. Try to dodge the attack by runing or rushing. 
+2 = Rolling and rushing consume physical strength. You can observe it below the character.
+3 = You are able to fire only when you are aiming. Firing is disabled when you are runing.
+4 = Reloading accumulates heat, reloading will be disabled when weapon is overheated.
+5 = Shield regeneration also accumulates heat, regeneration will be disabled when shield is overheated.
+6 = Heat can be observed from energy core's color in weapon bar(bottom left) and status Bar(bottom right). The redder the energy core, the higher the heat.

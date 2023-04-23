@@ -1,0 +1,10 @@
+0 = Ah, you got here.
+1 = Go in when you're ready, Snowy is already waiting for you inside.
+2 = ...em.
+3 = Did you bring up these scarecrows?
+4 = I only brought one. Lily brought the others. 
+5 = I have installed shield generators on it, so you can use them to try your gun.
+6 = Oh, right. Mr. Huang ask you to try her new gun. I put it in the weapon box there, on the right side of the table. 
+7 = It might be a little bit... unstable, so if you don't want to use it, just forget it. I'll explain to Mr. Huang.
+8 = I see. You were laborious.
+9 = hey-hey……

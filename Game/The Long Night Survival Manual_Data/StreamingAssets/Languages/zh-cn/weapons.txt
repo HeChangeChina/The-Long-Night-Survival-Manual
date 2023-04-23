@@ -1,0 +1,7 @@
+XueMei = 雪梅
+Victo-Ⅱ = 维克托-Ⅱ
+CangYing-Ⅰ = 苍鹰-Ⅰ
+Hail = 冰雹
+ATV-004 = ATV-004
+KV-035 = KV-035
+Cobra = 眼镜蛇

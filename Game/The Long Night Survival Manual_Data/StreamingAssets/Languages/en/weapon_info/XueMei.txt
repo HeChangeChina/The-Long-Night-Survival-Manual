@@ -1,0 +1,15 @@
+magazine_level = 65
+energy_cost_level = 45
+energy_recovery_level = 30
+fire_interval_level = 40
+damage_level = 55
+accuracy_level = 45
+name = Xuemei
+type = Shotgun
+magazine = 8-round
+energy_cost = 0.08%/shoot
+energy_recovery = 51s
+fire_interval = 0.8s
+damage = 45/round
+accuracy = 0°~20°
+description = The quarterly products launched by HuoXian Company™. It have a lackluster product design and a mediocre market response. Compared to previous products, it have no outstanding features, but instead retain their poor continuous shooting performance and poor energy input efficiency, which are evaluated as merely changing their appearance to match the seasonal appearance theme. <br><br><color=#A0A0A0>"I'm already old. I started to feel pain in the shoulder after taking a few shots with it. Take it, and I'll rely on you to protect your sister from now on."</color>

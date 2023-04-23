@@ -1,0 +1,11 @@
+name = Magic Overload
+
+slider_title_1 = Mana Cost
+slider_description_1 = 20
+slider_level_1 = 45
+
+slider_title_2 = Cooldown
+slider_description_2 = 15s
+slider_level_2 = 75
+
+description = Increase your mana recovery speed by 3/s and increase your ability power by 20% within 8 seconds.

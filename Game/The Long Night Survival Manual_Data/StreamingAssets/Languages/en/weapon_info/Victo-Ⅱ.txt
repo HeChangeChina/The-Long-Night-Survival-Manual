@@ -1,0 +1,15 @@
+magazine_level = 40
+energy_cost_level = 45
+energy_recovery_level = 65
+fire_interval_level = 85
+damage_level = 25
+accuracy_level = 70
+name = Victo-Ⅱ
+type = Assualt Rifle
+magazine = 28-round
+energy_cost = 50%
+energy_recovery = 33s
+fire_interval = 0.125s
+damage = 12.5/round
+accuracy = 2.2°~8.4°
+description = The assualt rifle that lauched by Dalton Company ™ for the 45th anniversary of the independence of the Roalos Empire in 974. It adopts the mold and design of the military product Victor I, and therefore retains many of the advantages of Victor I - high accuracy, high energy rotation rate, and high environmental resistance. At the same time, like Victor I, it can use the user's magic as input to continue firing after disconnecting the magic signal tower. It can be said that this product is completely a Victor I that reduces the core frequency, so it is widely welcomed by military fans and is in a state of shortage within a few months after its launch.

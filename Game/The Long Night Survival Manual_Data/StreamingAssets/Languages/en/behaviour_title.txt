@@ -1,0 +1,5 @@
+MagicOverload = Magic Overload
+SnowGirl_Cold = Cold
+Cheater = Auxiliary Mode
+MagicStar = Magic Star
+Scared = Frighten

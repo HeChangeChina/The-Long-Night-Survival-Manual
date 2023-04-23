@@ -1,0 +1,13 @@
+name = Chain Saw
+
+slider_title_1 = Mana Cost
+slider_description_1 = 20/20/28
+slider_level_1 = 55
+
+slider_title_2 = Cooldown
+slider_description_2 = 8s
+slider_level_2 = 45
+
+description = Use a magic shaped and assembled chain saw to create the following effects based on the number of consecutive uses：<br><br>First use: Throw the chain saw towards the target, causing 5 x 14 physical damage to the first enemy you hit<br><br>
+First continuous use: Wave the chain saw in the direction of the target for one and a half times, dealing 4 x 14 physical damage to all enemies. This action can hit the same enemy up to twice.<br><br>
+Second continuous use: Overload the chain saw and continuously cut enemies in the target direction, dealing 22 physical damage to all enemies every 0.2s. The chain saw can cut for up to 2.5 seconds and consume 12.5 stamina per second. If there is insufficient stamina, the cutting will be terminated.

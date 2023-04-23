@@ -1,0 +1,4 @@
+name = 简体中文
+auto = 自动选择（简体中文）
+id = 40
+dirname = zh-cn

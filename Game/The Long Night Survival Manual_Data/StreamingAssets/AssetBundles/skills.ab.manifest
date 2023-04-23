@@ -1,0 +1,135 @@
+ManifestFileVersion: 0
+CRC: 1376810916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8dfa9740c46e0909f62984b0a00c7cd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3668a2d9912df04029c4ba896e837a8d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d8f58ba26d5d6149997cdf22cafbb75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89b6681ae977e464f92bdd60cd39d876, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37d952404274afc469e0f7e7f6fd4371, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32bba2a59b4941949b10489a6f6a31c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 969d0ca6886a11340a3ea755f2d904b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f848e7edce803a4dafe3acb8b46e893, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72580c2039472c244886a57c0d1d2059, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3ebf2ab9260aab4482c342b6604c356, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cdff1ca5b902ee4a9d0a0fe81682627, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6293ebae329c48d40835bd3e639cddfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9bbb41e12ec7d4446bfc946b9e9bc29a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91466348295b1d14b9314aa15ebd4e80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64d367c842684bf44a9b076ed9a6d3d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22fe25b1ecf27d24c800fb8815b0f38e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebe594275c8a5cd4ea9cf581c4629bf9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3c8c7ab39f795345b40cbeaa457f122, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d64ae2d440af8bb4a9ba2fea8c575345, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f5cfd8bb73559d4cadbbd987365e527, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: CooldownResource
+- AssemblyName: Assembly-CSharp
+  ClassName: CustomAnimation
+- AssemblyName: Assembly-CSharp
+  ClassName: EditorEffectInMultiply
+- AssemblyName: Assembly-CSharp
+  ClassName: SkillTargetType
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.LightUtility/LightMeshVertex
+Assets:
+- Assets/ABResources/skills/ManyeSword/ManyeSword.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSword_Hit.prefab
+- Assets/ABResources/skills/ManyeSword/ManyeSword_RA.asset
+- Assets/ABResources/skills/Nova/Nova_random_3.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSword_Hit.asset
+- Assets/ABResources/skills/Nova/Nova_multi_3.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSword_Start.anim
+- Assets/ABResources/skills/ManyeSword/Test_Mul.asset
+- Assets/ABResources/skills/ManyeSword/MayeSword_Hurt_0.asset
+- Assets/ABResources/skills/Nova/Nova_bullet_1.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSword_Sword.png
+- Assets/ABResources/skills/HumanRoll.asset
+- Assets/ABResources/skills/Nova/Nova_Break.asset
+- Assets/ABResources/skills/ManyeSword/Test_Wait2.asset
+- Assets/ABResources/skills/Nova/Nova_hurt_1.asset
+- Assets/ABResources/skills/ManyeSword/Tets_Sum.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSword_Icon.png
+- Assets/ABResources/skills/Nova/Nova_bullet_2.asset
+- Assets/ABResources/skills/Nova/Nova_random_2.asset
+- Assets/ABResources/skills/Nova/Nova_hurt_3.asset
+- Assets/ABResources/skills/PlayerRush.asset
+- Assets/ABResources/skills/ManyeSword/MayeSword_Sword_1.asset
+- Assets/ABResources/skills/Nova/Nova_random_1.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSword_Hit.anim
+- Assets/ABResources/skills/ManyeSword/ManyeSword_Hack.anim
+- Assets/ABResources/skills/Nova/Nova_Filter_3.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSword_TChange.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSword_Hit.controller
+- Assets/ABResources/skills/Nova/Nova_Level3.asset
+- Assets/ABResources/skills/PlayerWalk.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSword_Sword.controller
+- Assets/ABResources/skills/ManyeSword/Test_TChange.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSwordBullet_Level1.asset
+- Assets/ABResources/skills/ManyeSword/Test_Wait.asset
+- Assets/ABResources/skills/Nova/Nova_TC.asset
+- Assets/ABResources/skills/Nova/Nova_bullet_3.asset
+- Assets/ABResources/skills/ManyeSword/ManyeSword_Sword.prefab
+- Assets/ABResources/skills/Nova/Nova_Preparing.asset
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/bullet.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/effects.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/filters.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/materials.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/specialeffect.ab

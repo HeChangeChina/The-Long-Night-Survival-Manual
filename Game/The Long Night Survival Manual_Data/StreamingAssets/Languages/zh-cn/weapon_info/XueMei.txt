@@ -1,0 +1,15 @@
+magazine_level = 65
+energy_cost_level = 45
+energy_recovery_level = 30
+fire_interval_level = 40
+damage_level = 55
+accuracy_level = 45
+name = 雪梅
+type = 猎枪
+magazine = 8发
+energy_cost = 0.08%/次
+energy_recovery = 51s
+fire_interval = 0.8s
+damage = 45/发
+accuracy = 0°~20°
+description = 火线公司™推出的季度性产品，产品设计乏善可陈，市场反响平平，相较于过去的产品没有任何突出的部分，反而保留了是一如既往差劲的持续射击表现与糟糕的能量输入效率，被评价为仅仅是更改了外观以使其符合季节性的外观主题。<br><br><color=#A0A0A0>"我已经老了，拿着它射几枪肩膀就开始生痛了，你拿着罢，以后就要靠你保护妹妹了。"</color>

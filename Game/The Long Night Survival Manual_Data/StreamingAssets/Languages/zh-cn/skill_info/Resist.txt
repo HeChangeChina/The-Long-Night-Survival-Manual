@@ -1,0 +1,11 @@
+name = 抗拒
+
+slider_title_1 = 法力消耗
+slider_description_1 = 14
+slider_level_1 = 36
+
+slider_title_2 = 冷却
+slider_description_2 = 10s
+slider_level_2 = 53
+
+description = 压缩自身的法力，然后在瞬间引爆，对周围的所有敌人造成10点法术伤害与大量冲击。

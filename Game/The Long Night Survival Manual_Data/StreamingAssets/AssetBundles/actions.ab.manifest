@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 873247114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99599929b0b307dfd65272079d6633db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1de1a0e643f7bbdd14797160c4dd7aeb
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: a2f82c294011f6e469d8b0b74974808f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResources/actions/SnowyBattleStart.asset
+- Assets/ABResources/actions/Gate.asset
+- Assets/ABResources/actions/SnowyBattleFail.asset
+- Assets/ABResources/actions/SnowyBattleEnd.asset
+- Assets/ABResources/actions/test.asset
+- Assets/ABResources/actions/Tips.asset
+- Assets/ABResources/actions/Lin02.asset
+- Assets/ABResources/actions/Lin01.asset
+- Assets/ABResources/actions/Operation.asset
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/characters.ab

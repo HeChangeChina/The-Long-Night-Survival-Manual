@@ -1,0 +1,265 @@
+ManifestFileVersion: 0
+CRC: 3894553174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2af509e213da2ec459eab2ef45a17db4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd8c151c5a0b5a79dce65008fbd0046c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aca74e9ffc336014e9e8340d4e6d58e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44206a13072186840b0ee95af4c2a4a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a0400ad4891aa44ea943c269091f322, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e04d441dbe81f04da716a830d00614e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8040275dae1f85d4186349a436f5254d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5f37ede74c137f4a8a1536e07a366f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ad6711f708ed6143a2e3273cdb9fbcb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b40d36aca798072488b3e6fc97da4a9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c771237fed13414885c9d96ceaa0889, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fd09bc638b64e643926e14274589aff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12b7a02ef79302241b83d6f70ba650c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a1f9bafa26d00849ac9b78e8c8e46f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb7268b88039b3e4c951175daf9337b0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/ABResources/characters/ui/DialogSwitch/DiaLogSwitchOutterLit.png
+- Assets/ABResources/characters/ui/Action/Action Exit.anim
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog LeftHide.anim
+- Assets/ABResources/characters/ui/Menu/GameMenu.controller
+- Assets/ABResources/characters/ui/HealthBar/HealthBar Enter.anim
+- Assets/ABResources/characters/ui/Menu/GameMenu Spare.anim
+- Assets/ABResources/characters/ui/WeaponShower/ToNormal.anim
+- Assets/ABResources/characters/ui/HealthBar/HealthBar Exit.anim
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchObject_Hiden.anim
+- Assets/ABResources/characters/ui/HealthBar/HealthBarMask.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog BustIdle.anim
+- Assets/ABResources/characters/ui/HealthBar/BarLight.png
+- Assets/ABResources/characters/ui/Menu/GameMenu Second.anim
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchObject_Idle.anim
+- Assets/ABResources/characters/ui/Dialog/DialogNormal.anim
+- Assets/ABResources/characters/ui/HealthBar/HealthBar_health.png
+- Assets/ABResources/characters/ui/Action/ActionBorderBar.png
+- Assets/ABResources/characters/ui/Universal/WhiteFill.png
+- Assets/ABResources/characters/ui/WeaponShower/WeaponShower_mask.png
+- Assets/ABResources/characters/ui/WeaponShower/Magazine.png
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchObject_Enter.anim
+- Assets/ABResources/characters/ui/WeaponShower/WeaponShower.prefab
+- Assets/ABResources/characters/ui/Dialog/DialogAppear.anim
+- Assets/ABResources/characters/ui/Dialog/DialogExit.anim
+- Assets/ABResources/characters/ui/HealthBar/HealthBar Idle.anim
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchBar_Enter.anim
+- Assets/ABResources/characters/ui/DialogSwitch/DialogSwitchEnter.anim
+- Assets/ABResources/characters/ui/HealthBar/HealthBarBox.png
+- Assets/ABResources/characters/ui/Menu/Chosen.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog LeftToRight.anim
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitch.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialogConfirm.png
+- Assets/ABResources/characters/ui/DialogSwitch/DiaLogSwitch.png
+- Assets/ABResources/characters/ui/Dialog/DialogConfirm.anim
+- Assets/ABResources/characters/ui/WeaponShower/Normal.anim
+- Assets/ABResources/characters/ui/SkillBar/SkillBar.png
+- Assets/ABResources/characters/ui/EnergyShower/EnergyShower.prefab
+- Assets/ABResources/characters/ui/HealthBar/HealthBarBlur.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog Bust.controller
+- Assets/ABResources/characters/ui/DialogSwitch/DiaLogSwitchInnerLit.png
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchObject_UnChoose.anim
+- Assets/ABResources/characters/ui/PlayerHealthBar/PlayerHealthBar_bar.png
+- Assets/ABResources/characters/ui/WeaponShower/LowMagazine.png
+- Assets/ABResources/characters/ui/PlayerHealthBar/PlayerHealthBar_bg.png
+- Assets/ABResources/characters/ui/Menu/GameMenu Idle.anim
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchBar_Idle.anim
+- Assets/ABResources/characters/ui/DialogSwitch/DialogSwitch.prefab
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog Arrow.controller
+- Assets/ABResources/characters/ui/Dialog/DialogLit.png
+- Assets/ABResources/characters/ui/HealthBar/HealthBar.prefab
+- Assets/ABResources/characters/ui/DialogSwitch/DialogSwitch.controller
+- Assets/ABResources/characters/ui/Dialog/DialogButton.png
+- Assets/ABResources/characters/ui/PlayerHealthBar/PlayerHealthBar.prefab
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchBar.controller
+- Assets/ABResources/characters/ui/Action/Action Enter.anim
+- Assets/ABResources/characters/ui/HealthBar/HealthBar Hide.anim
+- Assets/ABResources/characters/ui/SkillBar/UniversalSkillIcon.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog ArrowIdle.anim
+- Assets/ABResources/characters/ui/Dialog/InteractBox.prefab
+- Assets/ABResources/characters/ui/Menu/GameMenu QuitSecond.anim
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog.controller
+- Assets/ABResources/characters/ui/Dialog/DialogHide.anim
+- Assets/ABResources/characters/ui/WeaponShower/parts_no.png
+- Assets/ABResources/characters/ui/Menu/GameMenu SecondExit.anim
+- Assets/ABResources/characters/ui/DialogSwitch/DialogSwitchExit.anim
+- Assets/ABResources/characters/ui/WeaponShower/WeaponContainer_FloatLight.png
+- Assets/ABResources/characters/ui/DialogSwitch/SwitchLit.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog LeftEnter.anim
+- Assets/ABResources/characters/ui/PlayerHealthBar/Content.controller
+- Assets/ABResources/characters/ui/Menu/SliderBG.png
+- Assets/ABResources/characters/ui/Dialog/DialogLock.png
+- Assets/ABResources/characters/ui/Menu/GameMenu Exit.anim
+- Assets/ABResources/characters/ui/Menu/GameMenu EnterSecond.anim
+- Assets/ABResources/characters/ui/EnergyShower/EnergyBarOld.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog Arrow.anim
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog.prefab
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog Left.anim
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchLight.png
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchObject.prefab
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialogPointer.png
+- Assets/ABResources/characters/ui/WeaponShower/WeaponShower_border.png
+- Assets/ABResources/characters/ui/Menu/DropDownArrow.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog RIghtHide.anim
+- Assets/ABResources/characters/ui/WeaponShower/WeaponContainer_cutoff.png
+- Assets/ABResources/characters/ui/PlayerHealthBar/PlayerHealthBar_border.png
+- Assets/ABResources/characters/ui/WeaponShower/parts.png
+- Assets/ABResources/characters/ui/DialogSwitch/DialogSwitchNormal.anim
+- Assets/ABResources/characters/ui/Menu/SliderHandle.png
+- Assets/ABResources/characters/ui/Dialog/Dialog.controller
+- Assets/ABResources/characters/ui/Menu/GameMenu Enter.anim
+- Assets/ABResources/characters/ui/HealthBar/HealthBar BottomExit.anim
+- Assets/ABResources/characters/ui/PlayerHealthBar/PlayerHealthBar_lowshield.png
+- Assets/ABResources/characters/ui/Action/Action Playing.anim
+- Assets/ABResources/characters/ui/Dialog/DialogLock.anim
+- Assets/ABResources/characters/ui/WeaponShower/Choose.anim
+- Assets/ABResources/characters/ui/HealthBar/HealthBar BottomEnter.anim
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchObject_Chosen.anim
+- Assets/ABResources/characters/ui/Dialog/DialogBox_blur.png
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchObject_Choose.anim
+- Assets/ABResources/characters/ui/WeaponShower/WeaponContainer_light.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog Right.anim
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog RightEnter.anim
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog RightToLeft.anim
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialogBG.png
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchObject_Hide.anim
+- Assets/ABResources/characters/ui/WeaponShower/WeaponShower_blur.png
+- Assets/ABResources/characters/ui/DialogSwitch/DialogSwitchHide.anim
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchObject_ChooseSelect.anim
+- Assets/ABResources/characters/ui/Dialog/DialogBox.png
+- Assets/ABResources/characters/ui/WeaponShower/Chosen.anim
+- Assets/ABResources/characters/ui/Action/Action.controller
+- Assets/ABResources/characters/ui/HealthBar/HealthBar_shield.png
+- Assets/ABResources/characters/ui/EnergyShower/EnergyBar.png
+- Assets/ABResources/characters/ui/SkillBar/SkillSwitchObject.controller
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialogBorder.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog Hide.anim
+- Assets/ABResources/characters/ui/PlayerHealthBar/Storager.png
+- Assets/ABResources/characters/ui/ActionDialog/ActionDialog BustDisabled.anim
+- Assets/ABResources/characters/ui/PlayerHealthBar/WarningLight.png
+- Assets/ABResources/characters/ui/HealthBar/HealthBar Animator.controller
+- Assets/ABResources/characters/ui/Universal/warning.png
+- Assets/ABResources/characters/ui/Action/Action Idle.anim
+- Assets/ABResources/characters/ui/Dialog/LitMesh.png
+- Assets/ABResources/characters/ui/PlayerHealthBar/PlayerHealthBar Warning.anim
+- Assets/ABResources/characters/ui/WeaponShower/StandBy.anim
+- Assets/ABResources/characters/ui/Menu/Slider.png
+- Assets/ABResources/characters/ui/WeaponShower/KeyContainer.png
+- Assets/ABResources/characters/ui/WeaponShower/WeaponShower.controller
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/characters.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/materials.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/weapons.ab

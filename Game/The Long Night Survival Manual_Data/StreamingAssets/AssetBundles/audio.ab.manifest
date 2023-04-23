@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1515449004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6f3202cdbee81b52498e8c083e81910
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResources/audio/BackgroundMusic/Home (Loopable).wav
+- Assets/ABResources/audio/weapon/Sci Fi Assault Rifle 3.wav
+- Assets/ABResources/audio/weapon/Sci Fi Assault Rifle 6.wav
+- Assets/ABResources/audio/weapon/Kick 9.wav
+- Assets/ABResources/audio/weapon/Kick 8.wav
+- Assets/ABResources/audio/weapon/Body Flesh 4.wav
+- Assets/ABResources/audio/weapon/Bio gun Shot 1.wav
+Dependencies: []

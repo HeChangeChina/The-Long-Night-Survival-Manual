@@ -1,0 +1,286 @@
+ManifestFileVersion: 0
+CRC: 2451589144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 967e4b6f1f20bd11f7ba14705b5973b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: facac278e7eaa1e25030dadfe3003207
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 66
+  Script: {instanceID: 0}
+- Class: 70
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2504511450e8194419cfa9e7fd25c613, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d8f58ba26d5d6149997cdf22cafbb75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76f592d3f9ca9a64f9996394936b83ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c1b26a1c152c5b4984c042c7c912069, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b62b0ae03c840c6459172a522a3054ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37d952404274afc469e0f7e7f6fd4371, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db35fa47720026f43863e20845af414d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37f8021a64a6e11439e490ea154374fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8eb8a5ed3bcd2784580842fe7f0af36c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee652fde3fd2d9f43bdc44895bf97e45, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 969d0ca6886a11340a3ea755f2d904b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f848e7edce803a4dafe3acb8b46e893, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa449106d142b0f41b642dbac52e82ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72580c2039472c244886a57c0d1d2059, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3ebf2ab9260aab4482c342b6604c356, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f5de6fe5369b6e40b7936be77b96e4c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5da57a91199f7f44792d2e862405d83d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6293ebae329c48d40835bd3e639cddfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d683fc526276e1545badf0bcc4d30d67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9bbb41e12ec7d4446bfc946b9e9bc29a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64d367c842684bf44a9b076ed9a6d3d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69ca37fc220ebf04ead5da0efb5e94e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22fe25b1ecf27d24c800fb8815b0f38e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3c8c7ab39f795345b40cbeaa457f122, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56eb47e6d1dc6214abfd61eb4085171b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d64ae2d440af8bb4a9ba2fea8c575345, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d98c4fb5c4050a04383d692e2a13e933, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 331
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: CooldownResource
+- AssemblyName: Assembly-CSharp
+  ClassName: CustomAnimation
+- AssemblyName: Assembly-CSharp
+  ClassName: EditorEffectInMultiply
+- AssemblyName: Assembly-CSharp
+  ClassName: Fill/Result
+- AssemblyName: Assembly-CSharp
+  ClassName: FillCode.FillVariable
+- AssemblyName: Assembly-CSharp
+  ClassName: SkillTargetType
+- AssemblyName: Assembly-CSharp
+  ClassName: UniversalAttribute/AttributeKey
+- AssemblyName: Assembly-CSharp
+  ClassName: UniversalAttribute/InitAttribute
+Assets:
+- Assets/ABResources/characters/characters/SnowGirl/Attack 6/SnowGirlAttack6.asset
+- Assets/ABResources/characters/characters/Lin/Lin back.anim
+- Assets/ABResources/characters/characters/Scarecrow/scarecrow_normal.png
+- Assets/ABResources/characters/characters/SnowGirl/Attack 7/SnowGirl_Attack_7_prepare.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 8/SnowGirlAttack8.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 7/SnowGirlAttack_7_message.asset
+- Assets/ABResources/characters/characters/SnowGirl/Flash/SnowGirlFlash_point.asset
+- Assets/ABResources/characters/characters/Lin/Lin.controller
+- Assets/ABResources/characters/characters/Hei/Hei KnockDown.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 7/SnowGirlAttack_7_delay.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl FloatingIdle.anim
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirlShield.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 3/SnowGirlAttack3.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 1/SnowGirl_Attack_1_Darkness.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 7/SnowGirlAttack7.asset
+- Assets/ABResources/characters/characters/Lin/Lin idle.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 8/SnowGirl_Attack_8_direction1.asset
+- Assets/ABResources/characters/characters/Hei/Hei MainPick.anim
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl ActionFlash.anim
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlSwordReady.asset
+- Assets/ABResources/characters/characters/SnowGirl/Back/SnowGirlBackPush.asset
+- Assets/ABResources/characters/characters/Hei/Hei Aim.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 2/SnowGirlAttack_2_pointer.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 4/SnowGirl_Attack_4_TChange.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_Random.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Attack4.anim
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlGroundWind.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 2/SnowGirlAttack_2_multi.asset
+- Assets/ABResources/characters/characters/Hei/Hei Cast.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 3/SnowGirlAttack_3_multi.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_state.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 1/SnowGirlAttack1.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 1/SnowGirl_Attack_1_TC.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl KnockDown.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 2/SnowGirlIceConeHurt.asset
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlBreakState_1.asset
+- Assets/ABResources/characters/characters/SnowGirl/Back/SnowGirlBackTC.asset
+- Assets/ABResources/characters/characters/SnowGirl/Back/SnowGirlBackOL.asset
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlIceConeHit.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 0/SnowGirlAttack_0_Multi.asset
+- Assets/ABResources/characters/characters/Scarecrow/Scarecrow TestWeapon.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 0/SnowGirlAttack_0_Push.asset
+- Assets/ABResources/characters/characters/SnowGirl/ActionFlash/SnowGirl_ActionFlash_throw.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 6/SnowGirl_Attack_6_multi.asset
+- Assets/ABResources/characters/characters/Hei/Hei Rush.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 8/SnowGirl_Attack_8_shift1.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 2/SnowGirlAttack2.asset
+- Assets/ABResources/characters/characters/Hei/Hei None.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_TC.asset
+- Assets/ABResources/characters/characters/Hei/Hei VicePick.anim
+- Assets/ABResources/characters/characters/Hei/Hei Animator.controller
+- Assets/ABResources/characters/characters/SnowGirl/Attack 1/SnowGirl_Stage2.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Back.anim
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Idle.anim
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl BattleStart.anim
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlBreakLag.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 2/SnowGirlIceCone.asset
+- Assets/ABResources/characters/characters/SnowGirl/Flash/SnowGirlFlash_throw.asset
+- Assets/ABResources/characters/characters/SnowGirl/Flash/SnowGirlFlash_multi.asset
+- Assets/ABResources/characters/characters/SnowGirl/Flash/SnowGirlFlash_state2.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 0/SnowGirlAttack_0.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_revise2.asset
+- Assets/ABResources/characters/characters/SnowGirl/Back/SnowGirlBackFill.asset
+- Assets/ABResources/characters/characters/Scarecrow/scarecrow.prefab
+- Assets/ABResources/characters/characters/Hei/Hei SwitchFinish.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_Bullet.asset
+- Assets/ABResources/characters/characters/Hei/Hei MainGather.anim
+- Assets/ABResources/characters/characters/Hei/Hei Run.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 1/SnowGirlAttack_1.asset
+- Assets/ABResources/characters/characters/Hei/Hei RollPrepare.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 0/SnowGirlAttack_0_TC.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Attack0.anim
+- Assets/ABResources/characters/characters/Scarecrow/scarecrow 1.png
+- Assets/ABResources/characters/characters/SnowGirl/Back/SnowGirlBack.asset
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlBattle.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_IsSlow.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 1/SnowGirlAttack_1_Prepare.asset
+- Assets/ABResources/characters/characters/Hei/Hei Roll.anim
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Attack3.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_matrix.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 1/SnowGirlAttack1_0.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Flash.anim
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Attack7.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 1/SnowGirlAttack1_1.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 6/SnowGirl_Attack_6_hurt.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 4/SnowGir_lAttack_4_hit.asset
+- Assets/ABResources/characters/characters/Scarecrow/scarecrow.controller
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlBreakState_0.asset
+- Assets/ABResources/characters/characters/SnowGirl/ActionFlash/SnowGirlActionFlash.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 1/SnowGirlAttack_1_Shake.asset
+- Assets/ABResources/characters/characters/Lin/Lin.png
+- Assets/ABResources/characters/characters/SnowGirl/Attack 6/SnowGirl_Attack_6_TChange.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_notslow.asset
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirl_BattleStart_dark.asset
+- Assets/ABResources/characters/characters/Hei/Hei AimForward.anim
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl.png
+- Assets/ABResources/characters/characters/SnowGirl/Attack 7/SnowGirl_Attack_7_hurt.asset
+- Assets/ABResources/characters/characters/Scarecrow/scarecrow.png
+- Assets/ABResources/characters/characters/Hei/Hei RushPrepare.anim
+- Assets/ABResources/characters/characters/Hei/Hei Hack.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_attach.asset
+- Assets/ABResources/characters/characters/Hei/Hei Idle.anim
+- Assets/ABResources/characters/characters/SnowGirl/Flash/SnowGirlFlash.asset
+- Assets/ABResources/characters/characters/Hei/Hei_InitShield.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 4/SnowGirl_Attack_4_prepare.asset
+- Assets/ABResources/characters/characters/Hei/hei_new.png
+- Assets/ABResources/characters/characters/SnowGirl/Attack 6/SnowGirl_Attack_6_push.asset
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlBreak.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Attack8.anim
+- Assets/ABResources/characters/characters/SnowGirl/Flash/SnowGirlFlash_state.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 7/SnowGirl_Attack_7_hit.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_revise.asset
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlBreakAttribute.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl BattleEnd.anim
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Attack6.anim
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlBreakPush.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 3/SnowGirlAttack_3_icicle.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 0/SnowGirl_Attack_0_hurt.asset
+- Assets/ABResources/characters/characters/SnowGirl/Back/SnowGirlBackState.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_multi.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 8/SnowGirl_Attack8_Bullet.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirlAttack5.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 4/SnowGirl_Attack_4_push.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 3/SnowGirlAttack_3_TChange.asset
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlShieldHitted.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 7/SnowGirlAttack_7_random.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_delay.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 4/SnowGirlAttack4.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 8/SnowGirl_Attack_8_shift2.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 3/SnowGirlAttack_3_state.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 3/SnowGirlAttack_3_finish.asset
+- Assets/ABResources/characters/characters/Hei/Hei Impact.anim
+- Assets/ABResources/characters/characters/Hei/hei_normal.png
+- Assets/ABResources/characters/characters/Scarecrow/Scarecrow TestHurt.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Attack5.anim
+- Assets/ABResources/characters/characters/Hei/Hei Walk.anim
+- Assets/ABResources/characters/characters/SnowGirl/Others/SnowGirlPickSword.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 2/SnowGirlAttack_2_Points.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 6/SnowGir_Attack_6_hit.asset
+- Assets/ABResources/characters/characters/Hei/Hei FallDown.anim
+- Assets/ABResources/characters/characters/SnowGirl/Back/SnowGirlBackMulti.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 0/SnowGirlAttack0.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 4/SnowGirl_Attack_4_multi.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 8/SnowGirl_Attack_8_direction2.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 8/SnowGirl_Attack_8_hurt.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 3/SnowGirlAttack_3_Fall.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl.controller
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl_Bust.png
+- Assets/ABResources/characters/characters/SnowGirl/Attack 5/SnowGirl_Attack_5_cf.asset
+- Assets/ABResources/characters/characters/Scarecrow/Scarecrow Test.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 4/SnowGirl_Attack_4_hurt.asset
+- Assets/ABResources/characters/characters/SnowGirl/Attack 2/SnowGirlAttack_2_prepare.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Attack2.anim
+- Assets/ABResources/characters/characters/Hei/Hei ViceGather.anim
+- Assets/ABResources/characters/characters/Hei/Hei AimBackward.anim
+- Assets/ABResources/characters/characters/Hei/Hei Img.png
+- Assets/ABResources/characters/characters/SnowGirl/Flash/SnowGirlFlash_TChange.asset
+- Assets/ABResources/characters/characters/Universal/UniversalBust.png
+- Assets/ABResources/characters/characters/SnowGirl/Attack 2/SnowGirlAttack_2_fire.asset
+- Assets/ABResources/characters/characters/SnowGirl/Back/SnowGirlBackDirection.asset
+- Assets/ABResources/characters/characters/SnowGirl/SnowGirl Attack1.anim
+- Assets/ABResources/characters/characters/SnowGirl/Attack 0/SnowGirlAttack_0_light.asset
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/bullet.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/effects.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/filters.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/materials.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/shields.ab
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/specialeffect.ab

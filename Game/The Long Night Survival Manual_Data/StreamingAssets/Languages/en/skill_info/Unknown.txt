@@ -1,0 +1,2 @@
+name = Unknown Skill
+description = You haven't learned this skill

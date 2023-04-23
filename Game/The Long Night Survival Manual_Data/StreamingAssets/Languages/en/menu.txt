@@ -1,0 +1,16 @@
+游戏暂停 = ◀ Game Pause ▶
+继续 = Resume
+设置 = Setting
+退出游戏 = Quit Game
+返回 = Back
+保存 = Save
+显示帧率 = Show Frame Rate
+语言 = Language
+分辨率 = Resolution
+显示模式 = Display Mode
+最大帧率 = Frame Limit
+指针大小 = Cursor Size
+屏幕大小 = Screen
+开发者模式 = Developer Mode
+文本播放速度 = Text Speed
+辅助模式 = Auxiliary Mode

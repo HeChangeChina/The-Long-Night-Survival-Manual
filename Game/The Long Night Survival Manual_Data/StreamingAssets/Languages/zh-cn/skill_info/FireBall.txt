@@ -1,0 +1,11 @@
+name = 火球术
+
+slider_title_1 = 法力消耗
+slider_description_1 = 15
+slider_level_1 = 40
+
+slider_title_2 = 冷却
+slider_description_2 = 6.5s
+slider_level_2 = 34
+
+description = 利用法力活化空气中的魔力，使其剧烈放热形成高温火球，然后向目标方向射出，对接触的第一名敌人造成70点法术伤害。<br><br><color=#DCFF84>该技能可以存储至多2次使用次数</color>

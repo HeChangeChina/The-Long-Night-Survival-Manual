@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2698017330
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09ed047c376f7ee1735a30870d3e38da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b590b288cf65f2ecd03934b3dc3a45c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76f592d3f9ca9a64f9996394936b83ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22fe25b1ecf27d24c800fb8815b0f38e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResources/shields/ScancrowShield/ScancrowShield.asset
+- Assets/ABResources/shields/ScancrowShield/ScarecrowShield.png
+- Assets/ABResources/shields/Universal/UniversalShield.png
+Dependencies:
+- D:/work/game/noName/Assets/StreamingAssets/AssetBundles/effects.ab

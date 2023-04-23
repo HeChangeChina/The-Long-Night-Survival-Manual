@@ -1,0 +1,2 @@
+name = 未选择技能
+description = 当前未选中任何技能

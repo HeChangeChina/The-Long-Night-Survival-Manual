@@ -1,0 +1,15 @@
+magazine_level = 50
+energy_cost_level = 85
+energy_recovery_level = 20
+fire_interval_level = 30
+damage_level = 75
+accuracy_level = 20
+name = KV-035
+type = Shotgun
+magazine = 6-round
+energy_cost = 33%
+energy_recovery = 65s
+fire_interval = 1.2s
+damage = 15/round×5
+accuracy = 20°~30°
+description = The new products of KV series launched by Dalton Company™ in 988, which maintain the excellent quality of the KV series as always, and can cause devastating damage to the enemy in close combat. However, the lack of humanized shock absorption design, excellent grip experience, and unstable core output have led to a polarized evaluation of this product in the market.

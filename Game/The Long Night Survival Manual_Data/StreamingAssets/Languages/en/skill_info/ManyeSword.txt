@@ -1,0 +1,11 @@
+name = Manye's Sword
+
+slider_title_1 = Mana Cost
+slider_description_1 = 45
+slider_level_1 = 75
+
+slider_title_2 = Cooldown
+slider_description_2 = 12s
+slider_level_2 = 62
+
+description = Gather a large amount of your own mana into a sword of judgment, and swing a sword in the direction of the target, dealing 130 spell damage to the first two enemies in contact.<br><br><color=#A0A0A0>Manye's life is difficult to judge, and he got both praise and blame from historians. He and his Army were important barriers that kept the Nizer Empire from crossing the border, but his strong, or stubborn, thinking, like his Army, also led him to refuse to learn mechanized energy shaping magic, and even oppose the mechanization of energy shaping magic, so that the Kashgar Empire always lagged behind the Nizer Empire in its future development. However, his representative sword wielded the courage, strength, and daily tempering leave his name in history.</color>

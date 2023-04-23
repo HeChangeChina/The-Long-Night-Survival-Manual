@@ -1,0 +1,7 @@
+0 = 使用 <color=#32afeb>WASD</color> 移动
+1 = 按住 <color=#32afeb>Shift</color> 键可以冲刺
+2 = 使用 <color=#32afeb>Space</color> 键可以翻滚
+3 = 使用 <color=#32afeb>Ctrl</color> 键可以切换走路\慢跑
+4 = 使用 <color=#32afeb>数字键1 2 3</color> 可以切换武器
+5 = 在<color=#eb8c32>持有武器</color>状态下，按下 <color=#32afeb>鼠标右键</color> 可以瞄准， <color=#eb8c32>瞄准状态</color>下，按下 <color=#32afeb>鼠标左键</color> 可以开火
+6 = 按下 <color=#32afeb>R</color> 键可以为当前持有武器换弹

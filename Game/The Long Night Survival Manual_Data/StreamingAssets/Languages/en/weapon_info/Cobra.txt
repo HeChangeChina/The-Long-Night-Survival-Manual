@@ -1,0 +1,15 @@
+magazine_level = 90
+energy_cost_level = 20
+energy_recovery_level = 40
+fire_interval_level = 25
+damage_level = 70
+accuracy_level = 85
+name = Cobra
+type = Sniper Rifle
+magazine = 9-round
+energy_cost = 90%
+energy_recovery = 46s
+fire_interval = 1.35s
+damage = 55×2/round
+accuracy = 1°~6°
+description = A high-end market oriented sniper rifle launched by Huoxian Company™ in 989. The entire gun body adopts a single injection molding of Kelvin metal, which has extremely high hardness and heat dissipation efficiency; The butt of the gun is carved from plateau mahogany produced in Many, presenting a unique and special texture, and equipped with a complex cushioning mechanical structure and shock absorption circuit to meet the needs of continuous shooting; The energy core uses the latest single core compression technology, with an output power of 90 kvs, and the destructive power of the bullet is sufficient to rival level 5 spells.<br><br>This gun is a cross era product that has broken through the upper limit of the output power of the previous small single core energy core of 78 kvs, achieving a stable output power of 90 kvs without significant cost increases, demonstrating the commercial maturity of core compression technology.

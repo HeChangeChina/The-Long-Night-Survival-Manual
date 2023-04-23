@@ -1,0 +1,5 @@
+skill_notenoughcost = Insufficient skill consumption
+skill_incd = The Skill is in cooldown now
+skill_disabled = Unable to release this skill now
+cheater_on = Auxiliary mode is turned on
+cheater_off = Auxiliary mode is turned off

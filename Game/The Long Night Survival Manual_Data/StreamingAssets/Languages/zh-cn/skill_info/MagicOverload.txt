@@ -1,0 +1,11 @@
+name = 激活
+
+slider_title_1 = 法力消耗
+slider_description_1 = 20
+slider_level_1 = 45
+
+slider_title_2 = 冷却
+slider_description_2 = 15s
+slider_level_2 = 75
+
+description = 激活自身的法力，在8s内法力恢复速度提升3/s，并提高20%的法术强度。

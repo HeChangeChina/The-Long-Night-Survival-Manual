@@ -1,0 +1,16 @@
+name = Shield Strike
+
+slider_title_1 = Mana Cost
+slider_description_1 = 15
+slider_level_1 = 40
+
+slider_title_2 = Stamina Cost
+slider_description_2 = 15
+slider_level_2 = 40
+
+
+slider_title_3 = Cooldown
+slider_description_3 = 6s
+slider_level_3 = 30
+
+description = Gather mana and turn it into a shield that is violently swung in the direction of the mouse pointer. During the swing, it can withstand up to 100 damage points from that direction, and will not be repelled or blown away by attacks from that direction. <br>If you resist an attack from that direction at the moment of use, you can use it again to cast the shield and deal 100 spell damage to the first enemy.

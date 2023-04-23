@@ -1,0 +1,11 @@
+name = 魔力新星
+
+slider_title_1 = 法力消耗
+slider_description_1 = 5
+slider_level_1 = 20
+
+slider_title_2 = 法力持续消耗
+slider_description_2 = 6/s
+slider_level_2 = 40
+
+description = 吸引周围的魔力凝聚成环绕在自身周围的魔力新星，在自身造成物理伤害的时候，向目标发射一枚魔力荧光，造成8点法术伤害并添加一层魔力侵蚀状态，该效果有0.5s冷却时间。<br><color=#FF9090>魔力侵蚀状态</color>：每层降低目标1点护甲，至多叠加3层，在达到3层时还会额外降低1点护甲，持续3.5s。<br><br><color=#DCFF84>该技能可以主动开启/关闭</color>
