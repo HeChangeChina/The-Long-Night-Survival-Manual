@@ -8,6 +8,8 @@
 ![image](https://github.com/HeChangeChina/The-Long-Night-Survival-Manual/blob/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/002.png)
 ![image](https://github.com/HeChangeChina/The-Long-Night-Survival-Manual/blob/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/003.png)
 ***
+有关游戏系统的介绍请阅读文档目录下的系统介绍.pdf，此文档介绍了游戏的主要的十一个系统与它们的设计目的、实现过程。
+***
 默认的操作方式如下：  
 W A S D - 移动  
 Shift - 奔跑  
